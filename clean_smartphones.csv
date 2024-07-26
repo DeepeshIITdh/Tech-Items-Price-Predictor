@@ -1,0 +1,1021 @@
+brand,processor_name,processor_cores,processor_speed,os,ram,storage,battery_capacity,battery_power,DualSim,Volte,is_5G,is_Vo5G,wifi,ngc,irblaster,display_size,display_resolution,rear_camera,front_camera,memory_card_supported,rating,price
+OnePlus,Snapdragon,8.0, 3.2 ,Android v13,12 GB RAM, 256 GB inbuilt,5000 mAh ,100W,1,1,1,0,1,1,0,6.7, 1440x3216,50 , 16 ,0.0,89.0,54999
+OnePlus,Snapdragon,8.0, 2.2 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,0,6.59, 1080x2412,64 , 16 ,1.0,81.0,19989
+Samsung,Exynos,8.0, 2.4 ,Android v13,4 GB RAM, 64 GB inbuilt,5000 mAh ,15W,1,1,1,0,1,0,0,6.6, 1080x2408,50 , 13 ,1.0,75.0,16499
+Motorola,Snapdragon,8.0, 2.2 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,,1,1,1,0,1,0,0,6.55, 1080x2400,50 , 16 ,1.0,81.0,14999
+Realme,Dimensity,8.0, 2.6 ,Android v13,6 GB RAM, 128 GB inbuilt,5000 mAh ,67W,1,1,1,0,1,0,0,6.7, 1080x2412,108 , 16 ,0.0,82.0,24999
+Samsung,Snapdragon,8.0, 2.2 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,25W,1,1,1,0,1,1,0,6.6, 1080x2408,50 , 8 ,1.0,80.0,16999
+Apple,Bionic,6.0, 3.22 ,iOS v16,6 GB RAM, 128 GB inbuilt,3279 mAh ,,1,1,1,0,1,1,0,6.1, 1170x2532,12 , 12 ,0.0,81.0,65999
+Xiaomi,Dimensity,8.0, 2.6 ,Android v12,8 GB RAM, 256 GB inbuilt,4980 mAh ,120W,1,1,1,0,1,0,1,6.67, 1080x2400,200 , 16 ,0.0,86.0,29999
+Nothing,Snapdragon,8.0, 2.5 ,,8 GB RAM, 128 GB inbuilt,4500 mAh ,33W,1,1,1,0,1,1,0,6.55, 1080x2400,50 , 16 ,,85.0,26749
+OnePlus,Dimensity,8.0, 3 ,,8 GB RAM, 128 GB inbuilt,4500 mAh ,80W,1,1,1,0,1,1,0,6.43, 1080x2400,50 , 32 ,,84.0,28999
+Realme,Snapdragon,8.0, 2.2 ,Android v13,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,0,6.72, 1080x2400,108 , 16 ,1.0,82.0,18999
+OPPO,Dimensity,8.0, 2.2 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,1,0,6.56, 720x1612,50 , 8 ,1.0,79.0,18999
+Xiaomi,Dimensity,8.0, 2.6 ,,6 GB RAM, 128 GB inbuilt,5000 mAh ,67W,1,1,1,0,1,0,1,6.67, 1080x2400,50 , 16 ,,79.0,24762
+Vivo,Snapdragon,8.0, 2.2 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,0,6.58, 1080x2408,50 , 16 ,1.0,80.0,16990
+Samsung,Snapdragon,8.0, 3.2 ,Android v13,8 GB RAM, 256 GB inbuilt,5000 mAh ,45W,1,1,1,1,1,1,0,6.8, 1440x3088,200 , 12 ,0.0,,114990
+Apple,Bionic,6.0, 3.22 ,iOS v15,4 GB RAM, 128 GB inbuilt,3240 mAh ,,1,1,1,0,1,1,0,6.1, 1170x2532,12 , 12 ,0.0,79.0,62999
+Vivo,Helio,8.0, 2.3 ,Android v12,3 GB RAM, 32 GB inbuilt,5000 mAh ,10W,1,1,0,0,1,0,0,6.51, 720x1600,13 , 5 ,1.0,65.0,9999
+OPPO,Snapdragon,8.0, 3.2 ,,16 GB RAM, 256 GB inbuilt,4700 mAh ,80W,1,1,1,0,1,1,0,6.7, 1080x2412,50 , 32 ,,86.0,45999
+OnePlus,Dimensity,8.0, 2.85 ,,8 GB RAM, 128 GB inbuilt,5000 mAh ,80W,1,1,1,0,1,1,0,6.7, 1080x2412,50 , 16 ,,86.0,32999
+Vivo,Helio,8.0, 2 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.55, 720x1612,50 , 8 ,1.0,72.0,14499
+OnePlus,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,5000 mAh ,100W,1,1,1,0,1,1,0,6.7, 1080x2412,50 , 16 ,,85.0,39999
+Vivo,Dimensity,8.0, 3 ,,8 GB RAM, 128 GB inbuilt,4830 mAh ,66W,1,1,1,0,1,0,0,6.56, 1080x2376,64 , 32 ,,85.0,35999
+POCO,Snapdragon,8.0, 2.2 ,Android v11,6 GB RAM, 64 GB inbuilt,5000 mAh ,67W,1,1,1,0,1,0,1,6.67, 1080x2400,64 , 16 ,1.0,80.0,14999
+Xiaomi,Snapdragon,8.0, 2 ,Android v12,4 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,1,6.67, 1080x2400,48 , 13 ,1.0,76.0,17859
+Vivo,Dimensity,8.0, 3.2 ,,12 GB RAM, 256 GB inbuilt,4800 mAh ,100W,1,1,1,0,1,1,0,6.7, 1080x2400,64 , 32 ,,87.0,42990
+Samsung,Snapdragon,8.0, 2.84 ,Android v10,8 GB RAM, 128 GB inbuilt,4500 mAh ,,1,1,1,0,1,1,0,6.5, 1080x2400,12 , 32 ,1.0,88.0,31239
+OnePlus,Snapdragon,8.0, 2.2 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,0,6.59, 1080x2412,64 , 16 ,1.0,84.0,21995
+Apple,Bionic,6.0,,iOS v16,6 GB RAM, 128 GB inbuilt,4323 mAh ,,1,1,1,0,1,1,0,6.7, 1290x2796,48 , 12 ,0.0,76.0,129990
+Vivo,Dimensity,8.0, 2 ,Android v12,8 GB RAM, 128 GB inbuilt,4500 mAh ,44W,1,1,1,0,1,0,0,6.44, 1080x2408,64 , 50 ,1.0,83.0,27999
+OnePlus,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,4500 mAh ,100W,1,1,1,0,1,1,0,6.7, 1440x3216,50 , 16 ,,,69999
+Realme,Snapdragon,8.0, 2.2 ,Android v13,8 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,0,6.72, 1080x2400,108 , 16 ,1.0,84.0,19999
+POCO,Snapdragon,8.0, 2.4 ,Android v13,6 GB RAM, 128 GB inbuilt,5000 mAh ,67W,1,1,1,0,1,1,1,6.67, 1080x2400,108 , 16 ,0.0,81.0,20999
+Vivo,Dimensity,8.0, 2.2 ,Android v13,8 GB RAM, 256 GB inbuilt,4700 mAh ,67W,1,1,1,0,1,0,0,6.56, 1080x2400,64 , 50 ,1.0,83.0,27990
+Apple,Bionic,6.0, 2.65 ,iOS v13,4 GB RAM, 64 GB inbuilt,3110 mAh ,,1,1,0,0,1,1,0,6.1, 828x1792,12 , 12 ,0.0,73.0,38999
+Samsung,Dimensity,8.0, 2.4 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,25W,1,1,1,0,1,0,0,6.7, 1080x2400,108 , 32 ,1.0,85.0,23790
+Samsung,Exynos,8.0, 2.9 ,Android v11,8 GB RAM, 128 GB inbuilt,4500 mAh ,25W,1,1,1,0,1,1,0,6.4, 1080x2340,12 , 32 ,0.0,87.0,39999
+OPPO,Snapdragon,8.0, 2.2 ,Android v13,8 GB RAM, 256 GB inbuilt,5000 mAh ,66W,1,1,1,0,1,1,0,6.67, 1080x2400,108 , 16 ,1.0,87.0,29990
+Samsung,Snapdragon,8.0, 3 ,,12 GB RAM, 256 GB inbuilt,5000 mAh ,45W,1,1,1,0,1,1,0,6.8, 1440x3080,108 , 40 ,,,91999
+Xiaomi,Snapdragon,8.0, 2.36 ,Android v12,6 GB RAM, 128 GB inbuilt,5200 mAh ,210W,1,1,1,0,1,0,1,6.67, 1080x2460,108 , 32 ,1.0,83.0,32999
+OPPO,Snapdragon,8.0, 2.4 ,,8 GB RAM, 256 GB inbuilt,4500 mAh ,67W,1,1,1,0,1,1,0,6.7, 1080x2412,64 , 32 ,,83.0,28499
+OnePlus,Snapdragon,8.0, 2.2 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,67W,1,1,1,0,1,1,0,6.7, 1080x2412,108 , 16 ,1.0,83.0,21999
+Xiaomi,Snapdragon,8.0, 2.2 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,67W,1,1,1,0,1,0,1,6.67, 1080x2400,108 , 16 ,1.0,83.0,19999
+Motorola,Dimensity,8.0, 2.4 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,30W,1,1,1,0,1,1,0,6.67, 1080x2400,108 , 32 ,1.0,87.0,18999
+Realme,Dimensity,8.0, 2.6 ,Android v13,8 GB RAM, 256 GB inbuilt,5000 mAh ,67W,1,1,1,0,1,0,0,6.7, 1080x2412,108 , 16 ,0.0,85.0,27999
+Vivo,Snapdragon,8.0, 2.4 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,44W,1,1,0,0,1,0,0,6.58, 1080x2408,50 , 16 ,1.0,80.0,18499
+Samsung,Exynos,8.0, 2.4 ,Android v12,6 GB RAM, 128 GB inbuilt,6000 mAh ,25W,1,1,1,0,1,1,0,6.6, 1080x2400,50 , 8 ,1.0,81.0,17478
+Xiaomi,Snapdragon,8.0, 2.4 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,1,6.43, 1080x2400,50 , 13 ,1.0,76.0,11936
+Realme,Unisoc,8.0, 1.8 ,Android v12,3 GB RAM, 32 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.5, 720x1600,50 , 5 ,1.0,64.0,8950
+Vivo,Helio,8.0, 2.3 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,10W,1,1,0,0,1,0,0,6.51, 720x1600,13 , 5 ,1.0,68.0,12489
+Samsung,Snapdragon,8.0, 2.36 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,1,0,6.7, 1080x2412,108 , 32 ,1.0,,42999
+Samsung,Exynos,8.0, 2.4 ,Android v13,6 GB RAM, 128 GB inbuilt,5000 mAh ,15W,1,1,1,0,1,0,0,6.6, 1080x2408,50 , 13 ,1.0,79.0,18999
+iQOO,Dimensity,8.0, 3.1 ,,8 GB RAM, 128 GB inbuilt,5000 mAh ,120W,1,1,1,0,1,1,1,6.78, 1080x2400,64 , 16 ,,82.0,29999
+Jio,Snapdragon,8.0, 2.2 ,Android v12,4 GB RAM, 32 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,0,6.5, 720x1600,13 , 8 ,1.0,64.0,11990
+Motorola,Snapdragon,8.0, 2.2 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,30W,1,1,1,0,1,1,0,6.6, 1080x2400,50 , 16 ,1.0,83.0,18999
+Realme,Helio,8.0, 2.2 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,0,6.4, 1080x2400,50 , 16 ,1.0,74.0,13999
+Realme,Dimensity,8.0, 2.4 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,0,6.6, 1080x2408,50 , 8 ,1.0,75.0,14965
+Apple,Bionic,6.0, 3.22 ,iOS v16,6 GB RAM, 128 GB inbuilt,4325 mAh ,,1,1,1,0,1,1,0,6.7, 1284x2778,12 , 12 ,0.0,82.0,74999
+Xiaomi,Helio,8.0, 2.05 ,Android v11,6 GB RAM, 64 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,1,6.43, 1080x2400,64 , 13 ,1.0,78.0,10999
+Samsung,Snapdragon,8.0, 3.2 ,,8 GB RAM, 256 GB inbuilt,4700 mAh ,45W,1,1,1,1,1,1,0,6.6, 1080x2340,50 , 12 ,,89.0,84990
+Motorola,Snapdragon,8.0, 2.4 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,0,6.55, 1080x2400,50 , 16 ,1.0,75.0,10499
+Xiaomi,Dimensity,8.0, 2 ,,6 GB RAM, 128 GB inbuilt,5000 mAh ,67W,1,1,1,0,1,1,1,6.67, 1080x2460,108 , 16 ,,78.0,17990
+Vivo,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,4600 mAh ,66W,1,1,1,0,1,1,0,6.78, 1080x2400,64 , 50 ,,85.0,29990
+Samsung,Snapdragon,8.0, 2.4 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,25W,1,1,0,0,1,0,0,6.6, 1080x2408,50 , 8 ,1.0,79.0,18499
+Vivo,Helio,8.0, 2 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.55, 720x1612,50 , 8 ,1.0,75.0,16499
+POCO,Dimensity,8.0, 2.4 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,1,6.6, 1080x2400,50 , 16 ,1.0,81.0,14999
+Vivo,Dimensity,8.0, 3.1 ,,8 GB RAM, 256 GB inbuilt,4600 mAh ,66W,1,1,1,0,1,1,0,6.78, 1080x2400,50 , 50 ,,86.0,35499
+OnePlus,Snapdragon,8.0, 3 ,,8 GB RAM, 128 GB inbuilt,5000 mAh ,80W,1,1,1,0,1,1,0,6.7, 1440x3216,50 , 32 ,,89.0,60999
+Xiaomi,Dimensity,8.0, 2.6 ,Android v12,12 GB RAM, 256 GB inbuilt,4980 mAh ,120W,1,1,1,0,1,0,1,6.67, 1080x2400,200 , 16 ,0.0,87.0,32999
+Samsung,Snapdragon,8.0, 2.2 ,Android v12,4 GB RAM, 128 GB inbuilt,5000 mAh ,25W,1,1,1,0,1,1,0,6.6, 1080x2408,50 , 8 ,1.0,78.0,15999
+OPPO,Snapdragon,8.0, 3.2 ,Android v12,8 GB RAM, 256 GB inbuilt,5000 mAh ,67W,1,1,1,0,1,1,0,7.1, 1792x1920,,,,,99990
+OPPO,Helio,8.0, 2.3 ,Android v12,3 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.56, 720x1612,8 , 5 ,1.0,62.0,9499
+Vivo,Dimensity,8.0, 2.5 ,Android v12,12 GB RAM, 256 GB inbuilt,4200 mAh ,44W,1,1,1,0,1,0,0,6.44, 1080x2400,64 , 50 ,1.0,86.0,27994
+iQOO,Snapdragon,8.0, 2 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,0,6.58, 1080x2408,50 , 8 ,1.0,75.0,13989
+OnePlus,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,4800 mAh ,150W,1,1,1,0,1,1,0,6.7, 1080x2412,50 , 16 ,,85.0,44999
+Xiaomi,Dimensity,8.0, 2.2 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,1,6.5, 1080x2400,48 , 8 ,1.0,79.0,13999
+Gionee,Tiger,4.0, 2 ,HarmonyOS v2,4 GB RAM, 32 GB inbuilt,3500 mAh ,,1,1,0,0,1,0,0,6.26, 720x1600,13 , 5 ,1.0,,6190
+Apple,Bionic,6.0, 3.22 ,iOS v15.0,6 GB RAM, 128 GB inbuilt,3095 mAh ,,1,1,1,0,1,1,0,6.1, 1170x2532,12 , 12 ,0.0,83.0,119900
+OPPO,Snapdragon,8.0, 2.2 ,Android v13,8 GB RAM, 128 GB inbuilt,4800 mAh ,67W,1,1,1,0,1,0,0,6.58, 1080x2400,64 , 32 ,1.0,83.0,27660
+Samsung,Exynos,8.0,,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,1,0,6.5, 1080x2400,48 , 13 ,1.0,75.0,24999
+Xiaomi,Helio,8.0, 2 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.53, 720x1600,13 , 5 ,1.0,66.0,8388
+Motorola,Helio,8.0, 2.2 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,1,0,6.55, 1080x2400,108 , 16 ,1.0,83.0,15999
+Samsung,Exynos,8.0, 2.4 ,Android v13,8 GB RAM, 128 GB inbuilt,5000 mAh ,15W,1,1,1,0,1,0,0,6.6, 1080x2408,50 , 13 ,1.0,82.0,20999
+Realme,Dimensity,8.0, 2.4 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,0,6.5, 1080x2400,48 , 16 ,1.0,75.0,13999
+Vivo,Snapdragon,8.0, 2.2 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,0,6.58, 1080x2408,50 , 16 ,1.0,83.0,19990
+Samsung,Dimensity,8.0, 2.2 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,15W,1,1,1,0,1,0,0,6.5, 720x1600,50 , 5 ,1.0,75.0,13999
+Motorola,Snapdragon,8.0, 2.5 ,,6 GB RAM, 128 GB inbuilt,4020 mAh ,33W,1,1,1,0,1,1,0,6.5, 1080x2400,50 , 32 ,,83.0,22999
+Samsung,Snapdragon,8.0, 2.2 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,25W,1,1,1,0,1,0,0,6.6, 1080x2408,50 , 8 ,1.0,79.0,22999
+OPPO,Dimensity,8.0, 2.4 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,0,6.56, 720x1612,48 , 8 ,1.0,79.0,16999
+Xiaomi,Snapdragon,8.0, 2.4 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,1,6.43, 1080x2400,50 , 13 ,1.0,80.0,14290
+Samsung,Snapdragon,8.0, 2.4 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,25W,1,1,1,0,1,1,0,6.7, 1080x2400,108 , 32 ,1.0,,41999
+Vivo,Helio,8.0, 2.3 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.51, 720x1600,13 , 8 ,1.0,69.0,13489
+OnePlus,Dimensity,8.0, 2.85 ,,8 GB RAM, 128 GB inbuilt,5000 mAh ,,1,1,1,0,1,1,0,6.59, 1080x2412,64 , 16 ,,83.0,22990
+Motorola,Snapdragon,8.0, 2.2 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,,1,1,1,0,1,0,0,6.55, 1080x2400,50 , 16 ,1.0,84.0,16499
+Vivo,Snapdragon,8.0, 3.2 ,,12 GB RAM, 256 GB inbuilt,4700 mAh ,80W,1,1,1,0,1,1,1,6.78, 1440x3200,50.3 , 32 ,,,73999
+Realme,Unisoc,8.0, 1.8 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.5, 720x1600,50 , 5 ,1.0,67.0,9999
+Realme,Snapdragon,8.0, 2.4 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,0,6.6, 1080x2412,50 , 16 ,1.0,75.0,12499
+OPPO,Helio,8.0, 2.3 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.56, 720x1612,50 , 5 ,1.0,72.0,12499
+iQOO,Snapdragon,8.0, 3.2 ,,8 GB RAM, 256 GB inbuilt,5000 mAh ,120W,1,1,1,0,1,1,0,6.78, 1440x3200,50 , 16 ,,88.0,59999
+Vivo,Snapdragon,8.0, 3 ,Android v12,12 GB RAM, 256 GB inbuilt,4600 mAh ,66W,1,1,1,0,1,1,0,8.03, 1916x2160,,,,,106990
+Vivo,Snapdragon,8.0, 2.2 ,Android v12,4 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,0,6.58, 1080x2408,50 , 16 ,1.0,78.0,15990
+Apple,Bionic,6.0,,iOS v16,6 GB RAM, 128 GB inbuilt,3200 mAh ,,1,1,1,0,1,1,0,6.1, 1179x2556,48 , 12 ,0.0,75.0,119990
+Xiaomi,Snapdragon,8.0, 2.4 ,Android v11,6 GB RAM, 128 GB inbuilt,5200 mAh ,33W,1,1,1,0,1,0,1,6.67, 1080x2400,108 , 32 ,1.0,83.0,19999
+Motorola,Snapdragon,8.0, 2.9 ,,8 GB RAM, 128 GB inbuilt,4400 mAh ,68W,1,1,1,0,1,0,0,6.55, 1080x2460,50 , 32 ,,83.0,23990
+Realme,Dimensity,8.0, 2.4 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,0,6.6, 1080x2408,50 , 8 ,1.0,80.0,12999
+OPPO,Dimensity,8.0, 2.4 ,Android v11,8 GB RAM, 128 GB inbuilt,4310 mAh ,50W,1,1,1,0,1,0,0,6.43, 1080x2400,48 , 16 ,1.0,82.0,19990
+Xiaomi,Snapdragon,8.0, 3.2 ,Android v13,8 GB RAM, 128 GB inbuilt,4820 mAh ,120W,1,1,1,0,1,1,1,6.73, 1440x3200,50.3 , 32 ,0.0,,58990
+Vivo,Dimensity,8.0, 3.2 ,,12 GB RAM, 256 GB inbuilt,5000 mAh ,120W,1,1,1,0,1,0,0,6.73, 1080x2400,108 , 32 ,,87.0,43999
+Samsung,Snapdragon,8.0, 3 ,,8 GB RAM, 128 GB inbuilt,3700 mAh ,25W,1,1,1,0,1,1,0,6.1, 1080x2340,50 , 10 ,,86.0,49999
+Vivo,Snapdragon,8.0, 2.4 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,44W,1,1,0,0,1,0,0,6.44, 1080x2408,50 , 16 ,1.0,79.0,15999
+OnePlus,Dimensity,8.0, 2.85 ,,12 GB RAM, 256 GB inbuilt,5000 mAh ,80W,1,1,1,0,1,1,0,6.7, 1080x2412,50 , 16 ,,87.0,36999
+Tecno,Dimensity,8.0, 3.05 ,,8 GB RAM, 256 GB inbuilt,5160 mAh ,45W,1,1,1,0,1,1,0,6.8, 1080x2400,64 , 32 ,,85.0,39999
+Apple,Bionic,6.0, 3.1 ,,4 GB RAM, 64 GB inbuilt,,,1,1,1,0,1,1,0,,,,,,74.0,51999
+Xiaomi,Dimensity,8.0, 2.85 ,,6 GB RAM, 128 GB inbuilt,5080 mAh ,67W,1,1,1,0,1,0,1,6.6, 1080x2460,64 , 16 ,,82.0,22999
+Samsung,Exynos,8.0, 2.4 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,25W,1,1,1,0,1,1,0,6.5, 1080x2400,64 , 32 ,1.0,87.0,31999
+Xiaomi,Helio,4.0, 2 ,Android v12,2 GB RAM, 32 GB inbuilt,5000 mAh ,10W,1,1,0,0,1,0,0,6.52, 720x1600,8 , 5 ,1.0,,6171
+OPPO,Dimensity,8.0, 3 ,,8 GB RAM, 128 GB inbuilt,4500 mAh ,80W,1,1,1,0,1,1,0,6.43, 1080x2400,50 , 32 ,,83.0,29340
+Samsung,Dimensity,8.0, 2.4 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,25W,1,1,1,0,1,0,0,6.7, 1080x2400,108 , 32 ,1.0,87.0,25289
+iQOO,Snapdragon,8.0, 2.4 ,Android v12,6 GB RAM, 128 GB inbuilt,4700 mAh ,66W,1,1,1,0,1,0,0,6.44, 1080x2404,64 , 16 ,0.0,78.0,21788
+Tesla,,8.0,,Android v13,16 GB RAM, 512 GB inbuilt,5000 mAh ,120W,1,1,1,0,1,1,0,6.73, 1080x2448,50 , 32 ,0.0,83.0,69999
+Samsung,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,3900 mAh ,25W,1,1,1,1,1,1,0,6.1, 1080x2340,50 , 12 ,,88.0,70990
+Motorola,Snapdragon,8.0, 3 ,,8 GB RAM, 128 GB inbuilt,4800 mAh ,68W,1,1,1,0,1,1,0,6.7, 1080x2400,50 , 60 ,,89.0,34999
+OnePlus,Dimensity,8.0, 3 ,,12 GB RAM, 256 GB inbuilt,4500 mAh ,80W,1,1,1,0,1,1,0,6.43, 1080x2400,50 , 32 ,,85.0,33900
+Google,Google,8.0,,Android v12,6 GB RAM, 128 GB inbuilt,4410 mAh ,,1,1,1,0,1,1,0,6.14, 1080x2400,12.2 , 8 ,0.0,71.0,29999
+Infinix,Dimensity,8.0, 2.4 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,0,6.7, 1080x2400,108 , 16 ,1.0,84.0,18999
+Samsung,Exynos,8.0, 2.4 ,Android v12,8 GB RAM, 128 GB inbuilt,6000 mAh ,25W,1,1,1,0,1,1,0,6.6, 1080x2400,50 , 8 ,1.0,84.0,19499
+Vivo,Dimensity,8.0, 2.5 ,Android v12,8 GB RAM, 128 GB inbuilt,4200 mAh ,44W,1,1,1,0,1,0,0,6.44, 1080x2400,64 , 50 ,0.0,83.0,24994
+Motorola,Snapdragon,8.0, 2.4 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,20W,1,1,0,0,1,1,0,6.47, 1080x2400,50 , 16 ,1.0,78.0,10999
+OnePlus,Snapdragon,8.0, 2.2 ,Android v12,8 GB RAM, 256 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,0,6.59, 1080x2412,64 , 16 ,1.0,85.0,24999
+Samsung,Exynos,8.0, 2.4 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,25W,1,1,1,0,1,1,0,6.4, 1080x2400,48 , 13 ,1.0,82.0,25999
+Google,Google,8.0,,Android v12,6 GB RAM, 128 GB inbuilt,4410 mAh ,,1,1,1,0,1,1,0,6.1, 1080x2400,12.2 , 8 ,0.0,69.0,34990
+Xiaomi,Dimensity,8.0, 2.2 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,1,6.58, 1080x2408,50 , 5 ,1.0,74.0,13466
+Xiaomi,Snapdragon,8.0, 2.3 ,Android v10.0,4 GB RAM, 64 GB inbuilt,5020 mAh ,18W,1,1,0,0,1,0,1,6.67, 1080x2400,48 , 16 ,1.0,76.0,9999
+Motorola,Tiger,8.0, 1.8 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.5, 720x1600,48 , 8 ,1.0,71.0,7999
+Nothing,Snapdragon,8.0, 2.5 ,,8 GB RAM, 256 GB inbuilt,4500 mAh ,33W,1,1,1,0,1,1,0,6.55, 1080x2400,50 , 16 ,,86.0,28249
+POCO,Snapdragon,8.0, 2.2 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,67W,1,1,1,0,1,0,1,6.67, 1080x2400,64 , 16 ,1.0,82.0,16499
+Xiaomi,Snapdragon,8.0, 2.2 ,Android v11,8 GB RAM, 256 GB inbuilt,5000 mAh ,67W,1,1,1,0,1,0,1,6.67, 1080x2400,108 , 16 ,1.0,87.0,22999
+Apple,Bionic,6.0, 2.65 ,iOS v13,4 GB RAM, 128 GB inbuilt,3110 mAh ,,1,1,0,0,1,1,0,6.1, 828x1792,12 , 12 ,0.0,75.0,46999
+Realme,Tiger,8.0, 1.8 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.6, 1080x2408,50 , 8 ,1.0,74.0,13999
+OPPO,Snapdragon,8.0, 2.4 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,0,6.59, 1080x2412,50 , 16 ,1.0,78.0,13490
+iQOO,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,4700 mAh ,80W,1,1,1,0,1,0,1,6.62, 1080x2400,64 , 16 ,,82.0,28999
+iQOO,Snapdragon,8.0, 2.2 ,Android v12,4 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,0,6.58, 1080x2408,50 , 16 ,1.0,78.0,15499
+OPPO,Dimensity,8.0, 2.85 ,,16 GB RAM, 256 GB inbuilt,4500 mAh ,67W,1,1,1,0,1,1,0,6.7, 1080x2412,50 , 32 ,,86.0,39999
+POCO,Dimensity,8.0, 2.4 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,1,6.6, 1080x2400,50 , 16 ,1.0,76.0,12999
+Jio,,4.0,,Android v8.1 (Oreo),2 GB RAM, 64 GB inbuilt,2800 mAh ,,1,1,0,0,1,0,0,5.0, 720x1280,5 , 2 ,1.0,,4499
+OnePlus,Snapdragon,8.0, 1.8 ,Android v10,4 GB RAM, 64 GB inbuilt,6000 mAh ,18W,1,1,0,0,1,0,0,6.52, 720x1560,13 , 8 ,1.0,69.0,14999
+Samsung,Helio,8.0, 2.3 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,15W,1,1,0,0,1,0,0,6.5, 720x1600,13 , 5 ,1.0,68.0,8499
+iQOO,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,4400 mAh ,66W,1,1,1,0,1,1,0,6.62, 1080x2400,48 , 16 ,,83.0,24990
+Samsung,Exynos,8.0, 2.4 ,Android v12,6 GB RAM, 128 GB inbuilt,6000 mAh ,25W,1,1,1,0,1,1,0,6.5, 1080x2400,64 , 32 ,1.0,84.0,16999
+Xiaomi,Snapdragon,8.0, 2.4 ,Android v11,4 GB RAM, 64 GB inbuilt,6000 mAh ,18W,1,1,0,0,1,0,0,6.7, 720x1600,50 , 5 ,1.0,71.0,9589
+Apple,Bionic,6.0, 3.1 ,,4 GB RAM, 64 GB inbuilt,,,1,1,1,0,1,1,0,,,,,,74.0,40999
+Xiaomi,Snapdragon,8.0, 2 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,1,6.67, 1080x2400,48 , 13 ,1.0,79.0,19988
+Motorola,Snapdragon,8.0, 2.4 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,1,0,6.6, 2460x1080,50 , 16 ,1.0,75.0,11999
+Apple,Bionic,,,iOS v15,8 GB RAM, 256 GB inbuilt,4352 mAh ,25W,1,1,1,0,1,1,0,6.68, 1284x2778,50 , 12 ,0.0,79.0,142990
+OPPO,Snapdragon,8.0, 3 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,67W,1,1,1,0,1,1,0,6.7, 1080x2412,108 , 16 ,1.0,87.0,30990
+Infinix,Dimensity,8.0, 2.6 ,Android v12,8 GB RAM, 256 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,0,6.78, 1080x2460,50 , 16 ,1.0,85.0,19499
+Nokia,Snapdragon,4.0, 1.3 ,,4 GB RAM, 512 MB inbuilt,1450 mAh ,,1,0,0,0,1,0,0,2.7, 240x320,,,,,4990
+Realme,Tiger,8.0, 1.82 ,Android v11,2 GB RAM, 32 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.5, 720x1600,8 , 5 ,1.0,,5299
+OPPO,Snapdragon,8.0, 2.2 ,Android v12,8 GB RAM, 128 GB inbuilt,4500 mAh ,33W,1,1,1,0,1,0,0,6.43, 1080x2400,64 , 16 ,1.0,82.0,25969
+Realme,Snapdragon,8.0, 3 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,65W,1,1,1,0,1,0,0,6.4, 1080x2400,64 , 32 ,1.0,82.0,28999
+OPPO,Snapdragon,8.0, 3.2 ,,12 GB RAM, 256 GB inbuilt,4520 mAh ,67W,1,1,1,0,1,1,0,7.1, 1792x1920,,,,,94990
+Realme,Snapdragon,8.0, 2.4 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,0,6.4, 1080x2400,108 , 16 ,1.0,81.0,14999
+Cola,Helio,8.0, 2.2 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,0,6.4, 1080x2400,50 , 16 ,1.0,74.0,14999
+Apple,Bionic,6.0, 3.22 ,iOS v15,6 GB RAM, 128 GB inbuilt,4352 mAh ,,1,1,1,0,1,1,0,6.7, 1284x2778,12 , 12 ,0.0,84.0,129900
+OPPO,Snapdragon,8.0, 3.2 ,,12 GB RAM, 256 GB inbuilt,4700 mAh ,80W,1,1,1,0,1,1,0,6.73, 1080x2412,64 , 32 ,,88.0,58990
+Vivo,Dimensity,8.0, 3.05 ,Android v13,8 GB RAM, 128 GB inbuilt,4810 mAh ,120W,1,1,1,0,1,1,1,6.78, 1260x2800,50 , 32 ,0.0,88.0,41990
+Samsung,Exynos,8.0, 2 ,Android v12,4 GB RAM, 64 GB inbuilt,6000 mAh ,15W,1,1,0,0,1,1,0,6.6, 2408x1080,50 , 8 ,1.0,74.0,10999
+Xiaomi,Helio,8.0, 2.05 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,1,6.43, 1080x2400,64 , 13 ,1.0,79.0,11999
+Realme,Helio,8.0, 2.2 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,0,6.4, 1080x2400,50 , 16 ,1.0,79.0,16999
+iQOO,Snapdragon,8.0, 2.84 ,,8 GB RAM, 128 GB inbuilt,4500 mAh ,66W,1,1,1,0,1,1,0,6.62, 1080x2400,48 , 16 ,,83.0,30990
+Infinix,Dimensity,8.0, 2.4 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,0,6.6, 1080x2408,50 , 8 ,1.0,75.0,17999
+Letv,Tiger,4.0, 2 ,,4 GB RAM, 32 GB inbuilt,4000 mAh ,,1,1,0,0,1,0,0,6.54, 720x1560,8 , 5 ,,,5499
+Xiaomi,Snapdragon,8.0, 2.36 ,Android v12,6 GB RAM, 128 GB inbuilt,5200 mAh ,67W,1,1,1,0,1,0,1,6.67, 1080x2460,108 , 32 ,1.0,83.0,20499
+Realme,Dimensity,8.0, 2.5 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,0,6.4, 1080x2400,48 , 16 ,1.0,81.0,20490
+OPPO,Snapdragon,8.0, 2 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,0,6.5, 1080x2400,48 , 8 ,1.0,77.0,15490
+Apple,Bionic,6.0, 2.65 ,iOS v13.0,3 GB RAM, 64 GB inbuilt,2050 mAh ,,0,1,0,0,1,1,0,4.7, 750x1334,12 , 7 ,0.0,61.0,29990
+iQOO,Snapdragon,8.0, 2 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,0,6.58, 1080x2408,50 , 8 ,1.0,79.0,15499
+Xiaomi,Helio,8.0, 2.05 ,Android v11,6 GB RAM, 64 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,1,6.43, 1080x2400,64 , 13 ,1.0,80.0,11999
+Realme,Helio,8.0, 2 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,0,6.6, 1080x2412,50 , 16 ,1.0,74.0,10999
+Vivo,Dimensity,8.0, 2.2 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,0,6.58, 1080x2408,50 , 16 ,1.0,82.0,21990
+Vivo,Dimensity,8.0, 2 ,Android v12,12 GB RAM, 256 GB inbuilt,4500 mAh ,44W,1,1,1,0,1,0,0,6.44, 1080x2408,64 , 50 ,1.0,85.0,31999
+POCO,Helio,8.0, 2.05 ,Android v11,6 GB RAM, 64 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,1,6.43, 1080x2400,64 , 16 ,1.0,77.0,11999
+Infinix,Dimensity,8.0, 2.5 ,Android v12,8 GB RAM, 256 GB inbuilt,4500 mAh ,180W,1,1,1,0,1,0,0,6.8, 1080x2400,200 , 32 ,1.0,89.0,36999
+Tecno,Helio,4.0, 2 ,Android v12,3 GB RAM, 32 GB inbuilt,5000 mAh ,10W,1,1,0,0,1,0,0,6.56, 720x1600,13 , 5 ,1.0,62.0,6999
+Motorola,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,4600 mAh ,125W,1,1,1,0,1,1,0,6.7, 1080x2400,50 , 60 ,,89.0,39999
+Samsung,Snapdragon,8.0, 2.2 ,Android v12,4 GB RAM, 128 GB inbuilt,5000 mAh ,25W,1,1,1,0,1,1,0,6.6, 1080x2408,50 , 8 ,1.0,78.0,14999
+Realme,Dimensity,8.0, 2.2 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,0,6.6, 1080x2408,50 , 8 ,1.0,79.0,14499
+OnePlus,Dimensity,8.0, 3.1 ,,8 GB RAM, 128 GB inbuilt,4200 mAh ,120W,1,1,1,0,1,1,0,6.43, 1080x2400,50 , 32 ,,84.0,27999
+Motorola,Snapdragon,8.0, 2.2 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,30W,1,1,1,0,1,1,0,6.6, 1080x2400,50 , 16 ,1.0,86.0,20499
+iKall,,4.0,,Android v11.0,4 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.5, 720x1600,13 , 8 ,1.0,60.0,8099
+LeEco,Tiger,4.0, 1.8 ,,8 GB RAM, 128 GB inbuilt,5000 mAh ,10W,1,1,0,0,1,0,0,6.5, 720x1600,13 , 5 ,,65.0,10999
+Realme,Helio,8.0, 2 ,Android v9.0 (Pie),3 GB RAM, 32 GB inbuilt,4000 mAh ,,1,1,0,0,1,0,0,6.1, 720x1560,13 , 5 ,1.0,63.0,3499
+Duoqin,Helio,8.0, 2 ,Android v12,4 GB RAM, 64 GB inbuilt,2150 mAh ,,1,1,0,0,1,0,0,3.54, 640x960,8 , 2 ,1.0,,9990
+Samsung,Snapdragon,8.0, 2.84 ,Android v12,6 GB RAM, 128 GB inbuilt,6000 mAh ,25W,1,1,1,0,1,0,0,6.67, 1080x2412,64 , 32 ,1.0,85.0,34999
+Nokia,Snapdragon,8.0, 3 ,Android v12.1,12 GB RAM, 256 GB inbuilt,6000 mAh ,65W,1,1,1,0,1,0,0,6.9, 1400x3200,200 , 32 ,1.0,,46999
+Motorola,Snapdragon,8.0, 2.9 ,Android v12,8 GB RAM, 128 GB inbuilt,4400 mAh ,68W,1,1,1,0,1,1,0,6.55, 1080x2400,50 , 32 ,0.0,88.0,39999
+Realme,Tiger,8.0, 1.8 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.6, 1080x2408,50 , 8 ,1.0,70.0,11828
+OPPO,Dimensity,8.0, 2.85 ,,12 GB RAM, 256 GB inbuilt,4500 mAh ,80W,1,1,1,0,1,1,0,6.7, 1080x2412,50 , 32 ,,86.0,45999
+OnePlus,Snapdragon,8.0, 2.2 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,0,6.59, 1080x2412,50 , 16 ,1.0,81.0,18999
+POCO,Snapdragon,8.0, 2.2 ,Android v11,8 GB RAM, 128 GB inbuilt,5000 mAh ,67W,1,1,1,0,1,0,1,6.67, 1080x2400,64 , 16 ,1.0,84.0,17999
+Samsung,Helio,8.0, 2.3 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,15W,1,1,0,0,1,0,0,6.5, 720x1600,13 , 5 ,1.0,66.0,8499
+OPPO,Snapdragon,8.0, 2.4 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,0,6.56, 720x1600,50 , 8 ,1.0,76.0,17999
+Samsung,,8.0,,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,25W,1,1,0,0,1,0,0,6.6, 1080x2408,50 , 8 ,1.0,75.0,14450
+Motorola,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,4610 mAh ,125W,1,1,1,0,1,1,0,6.67, 1080x2400,200 , 60 ,,,54999
+Xiaomi,Snapdragon,8.0, 3.2 ,,12 GB RAM, 256 GB inbuilt,5000 mAh ,120W,1,1,1,0,1,1,1,6.6, 1440x3200,108 , 32 ,,,71999
+Motorola,Snapdragon,8.0, 2.4 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,1,0,6.6, 2460x1080,50 , 16 ,1.0,79.0,12999
+POCO,Dimensity,8.0, 2.2 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,1,6.58, 1080x2400,50 , 8 ,1.0,75.0,11499
+Nothing,Snapdragon,8.0, 2.5 ,,12 GB RAM, 256 GB inbuilt,4500 mAh ,33W,1,1,1,0,1,1,0,6.55, 1080x2400,50 , 16 ,,87.0,35999
+Samsung,Exynos,8.0,,Android v13,6 GB RAM, 128 GB inbuilt,5000 mAh ,25W,1,1,1,0,1,1,0,6.4, 1080x2400,50 , 32 ,1.0,76.0,34999
+Tecno,Helio,8.0, 2.2 ,Android v12,8 GB RAM, 128 GB inbuilt,6000 mAh ,18W,1,1,0,0,1,0,0,6.82, 720x1600,50 , 8 ,1.0,73.0,11999
+Xiaomi,Dimensity,8.0, 2.6 ,,8 GB RAM, 256 GB inbuilt,5000 mAh ,67W,1,1,1,0,1,0,1,6.67, 1080x2400,50 , 16 ,,82.0,27994
+Apple,Bionic,6.0,,iOS v16,6 GB RAM, 256 GB inbuilt,4323 mAh ,,1,1,1,0,1,1,0,6.7, 1290x2796,48 , 12 ,0.0,77.0,139990
+Vivo,Dimensity,8.0, 3 ,,12 GB RAM, 256 GB inbuilt,4830 mAh ,66W,1,1,1,0,1,0,0,6.56, 1080x2376,64 , 32 ,,86.0,39999
+Realme,Dimensity,8.0, 2.4 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,0,6.5, 1080x2400,48 , 16 ,1.0,79.0,15499
+Realme,Snapdragon,8.0, 2.2 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,0,6.6, 1080x2412,64 , 16 ,1.0,80.0,18999
+Lava,Dimensity,8.0, 2.2 ,Android v12,4 GB RAM, 128 GB inbuilt,5000 mAh ,,1,1,1,0,1,0,0,6.5, 1600x720,50 , 8 ,1.0,73.0,10999
+Honor,Snapdragon,8.0, 2.2 ,,8 GB RAM, 256 GB inbuilt,5100 mAh ,40W,1,1,1,0,1,1,1,6.67, 1080x2400,64 , 16 ,,81.0,27999
+Google,Google,8.0, 2.85 ,,12 GB RAM, 128 GB inbuilt,5000 mAh ,30W,1,1,1,0,1,1,0,6.7, 1440x3120,50 , 10.8 ,,,81999
+Tecno,Helio,8.0, 2 ,Android v11,4 GB RAM, 64 GB inbuilt,7000 mAh ,33W,1,1,0,0,1,0,0,6.95, 1080x2460,50 , 8 ,1.0,74.0,9999
+Vivo,Dimensity,8.0, 3 ,Android v12,8 GB RAM, 128 GB inbuilt,4300 mAh ,44W,1,1,1,0,1,0,0,6.56, 1080x2376,108 , 50 ,0.0,85.0,31994
+Samsung,Helio,8.0, 2.3 ,Android v12,3 GB RAM, 32 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.5, 720x1600,13 , 5 ,1.0,65.0,9299
+Xiaomi,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,5500 mAh ,67W,1,1,1,0,1,1,1,6.67, 1440x3200,64 , 16 ,,84.0,29990
+Realme,Dimensity,8.0, 2.5 ,Android v12,6 GB RAM, 128 GB inbuilt,4500 mAh ,60W,1,1,1,0,1,0,0,6.4, 1080x2400,50 , 16 ,0.0,78.0,25900
+Realme,Dimensity,8.0, 2.4 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,0,6.6, 1080x2408,50 , 8 ,1.0,78.0,16999
+Motorola,Snapdragon,8.0, 2.5 ,,8 GB RAM, 128 GB inbuilt,4020 mAh ,33W,1,1,1,0,1,1,0,6.5, 1080x2400,50 , 32 ,,85.0,24999
+Xiaomi,Snapdragon,8.0, 2.4 ,Android v11,6 GB RAM, 64 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,1,6.43, 1080x2400,50 , 13 ,1.0,79.0,12188
+Vivo,Helio,8.0,,Android v12,3 GB RAM, 32 GB inbuilt,5000 mAh ,10W,1,1,0,0,1,0,0,6.51, 720x1600,8 , 5 ,1.0,,8999
+POCO,Helio,8.0, 2.3 ,Android v10,4 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.53, 720x1600,13 , 5 ,1.0,68.0,7499
+Realme,Dimensity,8.0, 2.4 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,0,6.6, 1080x2400,48 , 16 ,1.0,79.0,17999
+Realme,Snapdragon,8.0, 3.2 ,,6 GB RAM, 128 GB inbuilt,5000 mAh ,80W,1,1,1,0,1,0,0,6.62, 1080x2400,64 , 16 ,,79.0,24999
+OPPO,Dimensity,8.0, 2.85 ,,12 GB RAM, 256 GB inbuilt,4500 mAh ,80W,1,1,1,0,1,1,0,6.7, 1080x2412,50 , 32 ,,86.0,45999
+OnePlus,Snapdragon,8.0, 3 ,,12 GB RAM, 256 GB inbuilt,5000 mAh ,80W,1,1,1,0,1,1,0,6.7, 1440x3216,50 , 32 ,,,65499
+iQOO,Snapdragon,8.0, 3.2 ,,8 GB RAM, 256 GB inbuilt,4700 mAh ,200W,1,1,1,0,1,1,1,6.78, 1440x3200,50 , 16 ,,89.0,58990
+Vivo,Snapdragon,8.0, 2.4 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.58, 1080x2408,50 , 8 ,1.0,74.0,11999
+Xiaomi,Snapdragon,8.0, 2.4 ,Android v11,8 GB RAM, 128 GB inbuilt,6000 mAh ,18W,1,1,0,0,1,0,1,6.7, 720x1650,50 , 5 ,1.0,77.0,11999
+OPPO,Dimensity,8.0, 2.2 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,0,6.56, 720x1612,50 , 8 ,1.0,76.0,18990
+Vivo,Snapdragon,8.0, 2.4 ,Android v12,4 GB RAM, 128 GB inbuilt,5000 mAh ,44W,1,1,0,0,1,0,0,6.44, 1080x2408,50 , 16 ,1.0,77.0,14499
+Xiaomi,Snapdragon,8.0, 3.2 ,Android v12,12 GB RAM, 256 GB inbuilt,4500 mAh ,67W,1,1,1,0,1,1,1,8.02, 1914x2160,,,,,106990
+Vivo,Helio,8.0, 2.3 ,Android v12,3 GB RAM, 64 GB inbuilt,5000 mAh ,10W,1,1,0,0,1,0,0,6.51, 720x1600,13 , 5 ,1.0,66.0,10499
+OPPO,Snapdragon,8.0, 2.2 ,Android v12,8 GB RAM, 256 GB inbuilt,4500 mAh ,33W,1,1,1,0,1,1,0,6.43, 1080x2400,64 , 16 ,1.0,86.0,26990
+Vivo,Helio,8.0, 2.05 ,Android v12,8 GB RAM, 128 GB inbuilt,4050 mAh ,44W,1,1,0,0,1,0,0,6.44, 1080x2400,50 , 44 ,1.0,82.0,19990
+Xiaomi,Dimensity,8.0, 2.6 ,Android v12,8 GB RAM, 256 GB inbuilt,4300 mAh ,120W,1,1,1,0,1,1,1,6.67, 1080x2400,200 , 16 ,1.0,89.0,24999
+OPPO,Helio,8.0, 2.3 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,0,6.56, 720x1612,13 , 8 ,1.0,69.0,13969
+Samsung,Snapdragon,8.0,,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,67W,1,1,1,0,1,1,0,6.7, 1080x2412,108 , 32 ,1.0,83.0,44999
+Vivo,Snapdragon,8.0, 2.4 ,Android v12,8 GB RAM, 128 GB inbuilt,4700 mAh ,66W,1,1,1,0,1,0,0,6.44, 1080x2404,64 , 16 ,1.0,84.0,24999
+Google,Google,8.0, 2.85 ,,8 GB RAM, 128 GB inbuilt,4355 mAh ,30W,1,1,1,0,1,1,0,6.3, 1080x2400,50 , 10.8 ,,86.0,53100
+Xiaomi,Dimensity,8.0, 2.4 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,1,6.6, 1080x2400,50 , 16 ,1.0,81.0,16999
+OPPO,Snapdragon,8.0, 2.4 ,Android v12,8 GB RAM, 128 GB inbuilt,4500 mAh ,33W,1,1,0,0,1,0,0,6.43, 1080x2400,64 , 32 ,1.0,82.0,21899
+Apple,Bionic,6.0, 3.22 ,iOS v16,6 GB RAM, 256 GB inbuilt,3279 mAh ,,1,1,1,0,1,1,0,6.1, 1170x2532,12 , 12 ,0.0,82.0,75999
+Motorola,Dimensity,8.0, 2.2 ,Android v13,8 GB RAM, 256 GB inbuilt,5000 mAh ,30W,1,1,1,0,1,1,0,6.5, 1080x2400,50 , 16 ,1.0,85.0,25999
+Nubia,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,6000 mAh ,80W,1,1,1,0,1,1,0,6.8, 1116x2480,50 , 16 ,,84.0,46990
+Motorola,Helio,8.0, 2 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,20W,1,1,0,0,1,0,0,6.47, 1080x2400,50 , 13 ,1.0,75.0,9999
+Tecno,Dimensity,8.0, 3.05 ,,12 GB RAM, 256 GB inbuilt,5160 mAh ,45W,1,1,1,0,1,1,0,6.8, 1080x2400,50 , 32 ,,89.0,49999
+Infinix,Helio,8.0, 2.2 ,Android v12,8 GB RAM, 128 GB inbuilt,4500 mAh ,45W,1,1,0,0,1,1,0,6.7, 1080x2400,108 , 60 ,1.0,87.0,17999
+iQOO,Snapdragon,8.0, 2.2 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,0,6.58, 1080x2408,50 , 16 ,1.0,80.0,16940
+Xiaomi,Snapdragon,8.0, 2.2 ,Android v11,6 GB RAM, 64 GB inbuilt,5000 mAh ,67W,1,1,1,0,1,0,1,6.67, 1080x2400,108 , 16 ,1.0,81.0,17990
+OPPO,Snapdragon,8.0, 2.2 ,Android v13,8 GB RAM, 128 GB inbuilt,4800 mAh ,67W,1,1,1,0,1,1,0,6.7, 1080x2412,108 , 16 ,1.0,84.0,20990
+Samsung,Exynos,8.0,,Android v12,8 GB RAM, 128 GB inbuilt,4200 mAh ,33W,1,1,1,0,1,1,0,6.4, 1080x2400,12 , 32 ,0.0,79.0,51999
+Samsung,Snapdragon,8.0, 3 ,,8 GB RAM, 128 GB inbuilt,4500 mAh ,45W,1,1,1,0,1,1,0,6.6, 1080x2340,50 , 10 ,,87.0,64449
+Vivo,Snapdragon,8.0, 2 ,,6 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,0,6.58, 1080x2408,13 , 8 ,,71.0,8990
+Motorola,Helio,8.0, 2 ,Android v13,4 GB RAM, 128 GB inbuilt,5000 mAh ,30W,1,1,0,0,1,1,0,6.5, 720x1600,50 , 16 ,1.0,77.0,19999
+POCO,Dimensity,8.0, 2.2 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,1,6.58, 1080x2400,50 , 8 ,1.0,79.0,13499
+Tecno,Dimensity,8.0, 2.4 ,Android v11,8 GB RAM, 128 GB inbuilt,6000 mAh ,18W,1,1,1,0,1,0,0,6.9, 1080x2460,50 , 16 ,1.0,78.0,15499
+POCO,Helio,8.0, 2.3 ,Android v10,3 GB RAM, 32 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.53, 720x1600,13 , 5 ,1.0,65.0,6499
+Apple,Bionic,,,iOS v12.3,4 GB RAM, 64 GB inbuilt,3060 mAh ,,1,1,0,0,1,1,0,6.1, 828x1792,12 , 7 ,0.0,60.0,71999
+Samsung,Exynos,8.0, 2.4 ,Android v12,8 GB RAM, 256 GB inbuilt,5000 mAh ,25W,1,1,1,0,1,1,0,6.5, 1080x2400,64 , 32 ,1.0,89.0,36499
+Infinix,Dimensity,8.0, 2.4 ,Android v12,6 GB RAM, 64 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,0,6.7, 1080x2400,50 , 16 ,1.0,78.0,15999
+OPPO,Dimensity,8.0, 3 ,Android v11,12 GB RAM, 256 GB inbuilt,4500 mAh ,65W,1,1,1,0,1,1,0,6.55, 1080x2400,50 , 32 ,1.0,87.0,31994
+OnePlus,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,5000 mAh ,100W,1,1,1,0,1,1,0,6.7, 1080x2412,50 , 16 ,,84.0,34999
+Xiaomi,Snapdragon,8.0, 2.3 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,67W,1,1,0,0,1,0,1,6.67, 1080x2400,108 , 16 ,1.0,81.0,18999
+Nothing,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,4700 mAh ,66W,1,1,1,0,1,1,0,6.67, 1080x2400,50 , 32 ,,88.0,39990
+Samsung,Helio,8.0, 2 ,Android v11,8 GB RAM, 128 GB inbuilt,5000 mAh ,15W,1,1,0,0,1,0,0,6.4, 1080x2400,64 , 20 ,1.0,82.0,16499
+Nokia,Snapdragon,2.0, 1.1 ,,512 MB RAM, 4 GB inbuilt,1500 mAh ,,1,1,0,0,1,0,0,2.8, 240x320,,,,,6199
+Google,Google,8.0, 2.8 ,,12 GB RAM, 128 GB inbuilt,5003 mAh ,30W,1,1,1,0,1,1,0,6.71, 1440x3120,50 , 11.1 ,,89.0,54300
+Infinix,Helio,8.0, 2 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,0,6.7, 1080x2400,50 , 8 ,1.0,73.0,9999
+Xiaomi,Dimensity,8.0, 2.2 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,1,6.58, 1080x2408,50 , 5 ,1.0,77.0,15990
+Xiaomi,Snapdragon,8.0, 2.2 ,Android v11,8 GB RAM, 128 GB inbuilt,5000 mAh ,67W,1,1,1,0,1,0,1,6.67, 1080x2400,108 , 16 ,1.0,86.0,22700
+Xiaomi,Snapdragon,8.0, 3 ,,8 GB RAM, 256 GB inbuilt,4600 mAh ,120W,1,1,1,0,1,1,1,6.73, 1440x3200,50 , 32 ,,89.0,50990
+Apple,Bionic,6.0, 3.22 ,iOS v15,4 GB RAM, 128 GB inbuilt,2438 mAh ,,1,1,1,0,1,1,0,5.4, 1080x2340,12 , 12 ,0.0,79.0,64900
+Tecno,Helio,8.0, 2 ,Android v11,6 GB RAM, 128 GB inbuilt,7000 mAh ,33W,1,1,0,0,1,0,0,6.9, 1080x2460,50 , 8 ,1.0,77.0,13799
+Realme,Tiger,8.0, 1.82 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.52, 720x1600,13 , 5 ,1.0,65.0,8999
+Asus,Snapdragon,8.0, 3.2 ,Android v12,18 GB RAM, 512 GB inbuilt,6000 mAh ,65W,1,1,1,0,1,1,0,6.78, 1080x2448,50 , 12 ,0.0,88.0,89999
+Vivo,Dimensity,8.0, 2.4 ,Android v12,8 GB RAM, 128 GB inbuilt,4050 mAh ,44W,1,1,1,0,1,0,0,6.44, 1080x2400,50 , 44 ,1.0,84.0,21994
+Apple,Bionic,,,iOS v15,6 GB RAM, 128 GB inbuilt,3500 mAh ,,1,1,0,0,1,1,0,5.42, 1080x2340,12 , 12 ,0.0,70.0,69990
+Xiaomi,Dimensity,8.0, 2.2 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,1,6.5, 1080x2400,48 , 8 ,1.0,75.0,12999
+iQOO,Dimensity,8.0, 3.1 ,Android v13,8 GB RAM, 128 GB inbuilt,5000 mAh ,120W,1,1,1,0,1,1,0,6.78, 1080x2400,64 , 16 ,0.0,83.0,24990
+Samsung,Snapdragon,8.0, 2.4 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,25W,1,1,0,0,1,0,0,6.6, 1080x2408,50 , 8 ,1.0,82.0,19990
+Xiaomi,Dimensity,8.0, 2.6 ,,8 GB RAM, 128 GB inbuilt,5000 mAh ,67W,1,1,1,0,1,0,1,6.67, 1080x2400,50 , 16 ,,82.0,26999
+Xiaomi,Snapdragon,8.0, 2.4 ,Android v13,8 GB RAM, 128 GB inbuilt,5000 mAh ,67W,1,1,1,0,1,1,1,6.67, 1080x2400,50 , 16 ,0.0,81.0,19999
+Infinix,Helio,8.0, 2.2 ,Android v12,8 GB RAM, 256 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,0,6.7, 1080x2400,108 , 16 ,1.0,83.0,16900
+Infinix,Dimensity,8.0, 2.4 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,0,6.6, 1080x2408,50 , 8 ,1.0,78.0,19999
+Apple,Bionic,6.0,,iOS v16,6 GB RAM, 1 TB inbuilt,4323 mAh ,,1,1,1,0,1,1,0,6.7, 1290x2796,48 , 12 ,0.0,78.0,182999
+Samsung,Exynos,8.0, 2 ,Android v12,6 GB RAM, 128 GB inbuilt,6000 mAh ,15W,1,1,0,0,1,0,0,6.6, 1080x2400,50 , 8 ,1.0,75.0,12999
+POCO,Dimensity,8.0, 2.4 ,Android v11,8 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,1,6.6, 1080x2400,50 , 16 ,1.0,82.0,15999
+Xiaomi,Helio,8.0, 2.05 ,Android v11,8 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,1,6.43, 1080x2400,64 , 13 ,1.0,82.0,13999
+Realme,Unisoc,8.0, 1.6 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.52, 720x1600,8 , 5 ,1.0,61.0,7749
+Samsung,Snapdragon,8.0, 2.2 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,25W,1,1,1,0,1,0,0,6.6, 1080x2408,50 , 8 ,1.0,81.0,24999
+Motorola,Snapdragon,8.0, 3.2 ,,12 GB RAM, 256 GB inbuilt,4610 mAh ,125W,1,1,1,0,1,1,0,6.67, 1080x2400,200 , 60 ,,,59999
+OPPO,Snapdragon,8.0, 2.2 ,Android v12,8 GB RAM, 128 GB inbuilt,4500 mAh ,33W,1,1,1,0,1,0,0,6.43, 1080x2400,64 , 16 ,1.0,82.0,25895
+Xiaomi,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,4500 mAh ,67W,1,1,1,0,1,1,1,6.36, 1080x2400,50 , 32 ,,89.0,46990
+Xiaomi,Helio,8.0, 2 ,Android v11,3 GB RAM, 32 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.53, 720x1600,13 , 5 ,1.0,64.0,7499
+Vivo,Helio,8.0, 2.3 ,Android v11,2 GB RAM, 32 GB inbuilt,5000 mAh ,10W,1,1,0,0,1,0,0,6.51, 720x1600,8 , 5 ,1.0,60.0,7790
+Xiaomi,Dimensity,8.0, 2.85 ,,8 GB RAM, 256 GB inbuilt,5080 mAh ,67W,1,1,1,0,1,0,1,6.6, 1080x2460,64 , 16 ,,85.0,25999
+Realme,Tiger,8.0, 1.82 ,Android v11,3 GB RAM, 32 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.5, 720x1600,8 , 5 ,1.0,60.0,6299
+Motorola,Snapdragon,8.0, 2.2 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,1,0,1,1,0,6.8, 1080x2400,50 , 13 ,1.0,77.0,12999
+Xiaomi,Snapdragon,8.0, 2.4 ,Android v11,6 GB RAM, 128 GB inbuilt,6000 mAh ,18W,1,1,0,0,1,0,0,6.7, 720x1600,50 , 5 ,1.0,75.0,11999
+Xiaomi,Snapdragon,8.0, 2.4 ,Android v11,6 GB RAM, 128 GB inbuilt,4250 mAh ,33W,1,1,1,0,1,1,1,6.55, 1080x2400,64 , 20 ,1.0,83.0,21890
+Samsung,Snapdragon,8.0, 2.84 ,,8 GB RAM, 128 GB inbuilt,3300 mAh ,15W,0,1,1,0,1,1,0,6.7, 1080x2640,,,,84.0,69999
+Apple,Bionic,6.0, 3.1 ,,4 GB RAM, 128 GB inbuilt,,,1,1,1,0,1,1,0,,,,,,75.0,55999
+OnePlus,Snapdragon,8.0, 3.2 ,,16 GB RAM, 256 GB inbuilt,4800 mAh ,150W,1,1,1,0,1,1,0,6.7, 1080x2412,50 , 16 ,,87.0,55999
+Samsung,,8.0,,Android v12,4 GB RAM, 128 GB inbuilt,5000 mAh ,25W,1,1,0,0,1,0,0,6.6, 1080x2408,50 , 8 ,1.0,75.0,14999
+OPPO,Dimensity,8.0, 2 ,Android v11,8 GB RAM, 256 GB inbuilt,4500 mAh ,65W,1,1,1,0,1,1,0,6.43, 1080x2400,64 , 32 ,1.0,85.0,25994
+OnePlus,Snapdragon,8.0, 2.84 ,,8 GB RAM, 128 GB inbuilt,4500 mAh ,,1,1,1,0,1,1,0,6.62, 1080x2400,50 , 16 ,,85.0,42999
+Samsung,Exynos,8.0, 2.4 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,25W,1,1,1,0,1,1,0,6.5, 1080x2400,64 , 32 ,1.0,89.0,33499
+Samsung,Snapdragon,8.0, 3 ,,12 GB RAM, 512 GB inbuilt,5000 mAh ,45W,1,1,1,0,1,1,0,6.8, 1440x3080,108 , 40 ,,,118999
+Motorola,Snapdragon,8.0, 2.2 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,1,0,6.4, 1080x2400,50 , 16 ,0.0,80.0,16999
+itel,,4.0,,Android v10,2 GB RAM, 32 GB inbuilt,4000 mAh ,,1,1,0,0,1,0,0,6.6, 1600x720,8 , 8 ,1.0,,6990
+Vivo,Dimensity,8.0, 2.4 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,66W,1,1,1,0,1,0,0,6.0, 1080x2400,50 , 50 ,0.0,82.0,29990
+Samsung,Dimensity,8.0, 2.2 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,15W,1,1,1,0,1,0,0,6.5, 720x1600,50 , 5 ,1.0,71.0,12944
+POCO,Dimensity,8.0, 3.2 ,Android v13,8 GB RAM, 128 GB inbuilt,5000 mAh ,80W,1,1,1,0,1,1,1,6.7, 1080x2400,64 , 32 ,0.0,84.0,29990
+Honor,Snapdragon,8.0, 2.2 ,,8 GB RAM, 128 GB inbuilt,4800 mAh ,66W,1,1,1,0,1,1,0,6.81, 1080x2388,48 , 16 ,,80.0,16999
+iQOO,Snapdragon,8.0, 3.2 ,,16 GB RAM, 256 GB inbuilt,5000 mAh ,120W,1,1,1,0,1,1,0,6.78, 1440x3200,50 , 16 ,,89.0,64999
+Samsung,Snapdragon,8.0, 3.2 ,Android v12,12 GB RAM, 256 GB inbuilt,4400 mAh ,25W,1,1,1,0,1,1,0,7.6, 1812x2176,,,,,154998
+Royole,Snapdragon,8.0, 2.84 ,,8 GB RAM, 128 GB inbuilt,4450 mAh ,,1,1,1,0,1,0,0,7.8, 1440x1920,,,,87.0,109999
+Apple,Bionic,6.0, 3.22 ,iOS v16,6 GB RAM, 256 GB inbuilt,4325 mAh ,,1,1,1,0,1,1,0,6.7, 1284x2778,12 , 12 ,0.0,83.0,84999
+Samsung,Exynos,8.0, 2.4 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,25W,1,1,1,0,1,1,0,6.4, 1080x2400,48 , 13 ,1.0,85.0,27499
+Tecno,Helio,8.0, 2.3 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.6, 720x1600,13 , 8 ,1.0,69.0,8999
+Google,Google,8.0, 2.8 ,,8 GB RAM, 128 GB inbuilt,4614 mAh ,30W,1,1,1,0,1,1,0,6.4, 1080x2400,50 , 8 ,,84.0,40480
+Xiaomi,Snapdragon,8.0, 2.3 ,Android v11,6 GB RAM, 128 GB inbuilt,5020 mAh ,33W,1,1,0,0,1,0,1,6.67, 1080x2400,64 , 16 ,1.0,81.0,17999
+Samsung,Exynos,8.0, 2.9 ,,12 GB RAM, 256 GB inbuilt,5000 mAh ,25W,1,1,1,0,1,1,0,6.8, 1440x3200,108 , 40 ,,,105999
+Infinix,Helio,8.0, 2.3 ,Android v12,4 GB RAM, 64 GB inbuilt,6000 mAh ,18W,1,1,0,0,1,0,0,6.82, 720x1640,13 , 8 ,1.0,67.0,8999
+Vivo,Snapdragon,8.0, 2.4 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.58, 1080x2408,50 , 8 ,1.0,77.0,14999
+OPPO,Snapdragon,8.0, 2.2 ,Android v12,8 GB RAM, 128 GB inbuilt,4500 mAh ,33W,1,1,1,0,1,0,0,6.5, 1080x2400,64 , 32 ,1.0,82.0,19990
+iQOO,Snapdragon,8.0, 2.4 ,Android v12,8 GB RAM, 128 GB inbuilt,4700 mAh ,66W,1,1,1,0,1,0,0,6.44, 1080x2404,64 , 16 ,0.0,80.0,23399
+Samsung,Snapdragon,8.0, 2.4 ,Android v12,8 GB RAM, 256 GB inbuilt,5000 mAh ,25W,1,1,1,0,1,1,0,6.7, 1080x2400,108 , 32 ,1.0,,41990
+Realme,Snapdragon,8.0, 2.4 ,Android v11,8 GB RAM, 128 GB inbuilt,5000 mAh ,30W,1,1,1,0,1,0,0,6.6, 1080x2412,48 , 16 ,1.0,82.0,22998
+POCO,Snapdragon,8.0, 3.2 ,,6 GB RAM, 128 GB inbuilt,4500 mAh ,67W,1,1,1,0,1,1,0,6.67, 1080x2400,64 , 20 ,,82.0,25999
+Infinix,Helio,8.0, 2 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,0,6.7, 2400x1080,50 , 16 ,1.0,74.0,11700
+Samsung,Unisoc,4.0, 1.6 ,Android v10,2 GB RAM, 32 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.5, 720x1600,8 , 5 ,1.0,,6499
+Motorola,Snapdragon,8.0, 2.3 ,Android v11,6 GB RAM, 128 GB inbuilt,6000 mAh ,20W,1,1,0,0,1,1,0,6.78, 1080x2460,108 , 32 ,1.0,84.0,15999
+OnePlus,Snapdragon,8.0, 2.84 ,Android v11,8 GB RAM, 128 GB inbuilt,4500 mAh ,65W,1,1,1,0,1,1,0,6.7, 1440x3216,48 , 16 ,0.0,89.0,64800
+Xiaomi,Helio,8.0, 2.05 ,Android v11,6 GB RAM, 64 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,1,6.43, 1080x2400,108 , 16 ,1.0,80.0,14590
+Xiaomi,Helio,8.0, 2.3 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.53, 720x1600,13 , 5 ,1.0,68.0,7499
+Tecno,Dimensity,8.0, 2.4 ,,8 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,1,0,6.8, 1080x2460,64 , 16 ,,82.0,21999
+Samsung,Helio,8.0, 2.3 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.5, 720x1600,50 , 5 ,1.0,71.0,11999
+POCO,Helio,8.0, 2.05 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,1,6.43, 1080x2400,64 , 16 ,1.0,79.0,12999
+OnePlus,Snapdragon,8.0, 2.2 ,Android v11,6 GB RAM, 128 GB inbuilt,4500 mAh ,33W,1,1,1,0,1,1,0,6.43, 1080x2400,64 , 16 ,1.0,81.0,20990
+Apple,Bionic,6.0, 3.22 ,iOS v15,4 GB RAM, 256 GB inbuilt,3240 mAh ,,1,1,1,0,1,1,0,6.1, 1170x2532,12 , 12 ,0.0,79.0,72999
+OPPO,Snapdragon,8.0, 3.2 ,,12 GB RAM, 256 GB inbuilt,4700 mAh ,120W,1,1,1,0,1,1,0,6.78, 1080x2400,50 , 32 ,,,77990
+Vivo,Dimensity,8.0, 3.05 ,Android v13,8 GB RAM, 256 GB inbuilt,4870 mAh ,120W,1,1,1,0,1,1,1,6.78, 1260x2800,50.3 , 32 ,0.0,,56999
+Motorola,Snapdragon,8.0, 2.2 ,Android v13,4 GB RAM, 128 GB inbuilt,5000 mAh ,10W,1,1,1,0,1,1,0,6.5, 720x1600,50 , 16 ,1.0,79.0,21999
+Motorola,Helio,8.0, 2.3 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,20W,1,1,0,0,1,0,0,6.53, 720x1600,50 , 16 ,1.0,75.0,9499
+Xiaomi,Helio,8.0, 2 ,Android v10,4 GB RAM, 64 GB inbuilt,5000 mAh ,10W,1,1,0,0,1,0,0,6.53, 720x1600,13 , 5 ,1.0,66.0,7499
+Jio,Snapdragon,4.0, 1.3 ,Android v11,2 GB RAM, 32 GB inbuilt,3500 mAh ,,1,1,0,0,1,0,0,5.45, 720x1440,13 , 8 ,1.0,,4649
+Vivo,Helio,8.0, 2 ,Android v8.1 (Oreo),4 GB RAM, 32 GB inbuilt,4030 mAh ,,1,1,0,0,1,0,0,6.2, 1520x720,13 , 8 ,1.0,62.0,18000
+Xiaomi,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,5000 mAh ,120W,1,1,1,0,1,1,1,6.67, 1440x3200,54 , 16 ,,85.0,38999
+Realme,Unisoc,8.0, 1.6 ,Android v12,2 GB RAM, 32 GB inbuilt,5000 mAh ,10W,1,1,0,0,1,0,0,6.5, 720x1600,8 , 5 ,1.0,,7145
+Vivo,Snapdragon,8.0, 2.4 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.55, 1612x720,50 , 8 ,1.0,77.0,14990
+OPPO,Helio,8.0, 2.3 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,0,6.56, 720x1600,50 , 8 ,1.0,70.0,15499
+Xiaomi,Helio,8.0, 2 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,1,6.53, 720x1600,13 , 5 ,1.0,69.0,9999
+POCO,Snapdragon,8.0, 3.2 ,,12 GB RAM, 256 GB inbuilt,4500 mAh ,67W,1,1,1,0,1,1,0,6.67, 1080x2400,64 , 20 ,,86.0,29999
+Realme,Snapdragon,8.0, 2.4 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,0,6.4, 1080x2400,108 , 16 ,1.0,84.0,15999
+Xiaomi,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,5000 mAh ,120W,1,1,1,0,1,1,1,6.67, 1220x2712,200 , 20 ,,89.0,59990
+iQOO,Snapdragon,8.0, 2.9 ,,8 GB RAM, 128 GB inbuilt,4350 mAh ,120W,1,1,1,0,1,0,0,6.56, 1080x2376,48 , 16 ,,84.0,34990
+Apple,Bionic,6.0, 3.1 ,,4 GB RAM, 128 GB inbuilt,,,1,1,1,0,1,1,0,,,,,,75.0,45999
+Samsung,Snapdragon,8.0,,Android v13,12 GB RAM, 256 GB inbuilt,5100 mAh ,45W,1,1,1,1,1,0,0,6.83, 1200x2860,200 , 60 ,0.0,85.0,119990
+OPPO,Dimensity,8.0, 3.05 ,,8 GB RAM, 128 GB inbuilt,4300 mAh ,44W,0,1,1,0,1,1,0,6.8, 1200x2400,,,,88.0,89990
+OnePlus,Snapdragon,8.0, 3.2 ,,12 GB RAM, 256 GB inbuilt,4800 mAh ,150W,1,1,1,0,1,1,0,6.7, 1080x2412,50 , 16 ,,87.0,50999
+Tecno,Helio,8.0, 2.3 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.6, 720x1600,13 , 8 ,1.0,65.0,7999
+Samsung,Exynos,8.0, 2.9 ,Android v11,8 GB RAM, 256 GB inbuilt,4500 mAh ,25W,1,1,1,0,1,1,0,6.4, 1080x2340,12 , 32 ,0.0,88.0,43999
+Xiaomi,Dimensity,8.0, 2.4 ,Android v11,8 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,1,6.6, 1080x2400,50 , 16 ,1.0,83.0,18499
+Sony,Snapdragon,8.0, 2.84 ,Android v11,12 GB RAM, 512 GB inbuilt,4500 mAh ,30W,1,1,1,0,1,1,0,6.5, 1644x3840,12 , 8 ,1.0,,134999
+Vivo,Snapdragon,8.0, 2.4 ,,8 GB RAM, 128 GB inbuilt,4300 mAh ,33W,1,1,1,0,1,0,0,6.44, 1080x2400,64 , 44 ,,85.0,32999
+POCO,Snapdragon,8.0, 2.3 ,Android v10,6 GB RAM, 64 GB inbuilt,6000 mAh ,33W,1,1,0,0,1,0,1,6.67, 1080x2400,64 , 20 ,1.0,80.0,13499
+Samsung,Exynos,8.0, 2.73 ,Android v10.0,8 GB RAM, 128 GB inbuilt,4500 mAh ,25W,1,1,0,0,1,1,0,6.5, 1080x2400,12 , 32 ,1.0,86.0,35489
+Google,Snapdragon,8.0, 2.8 ,Android v10,6 GB RAM, 64 GB inbuilt,2800 mAh ,,1,1,0,0,1,1,0,5.7, 1080x2280,16 , 8 ,0.0,78.0,20120
+Samsung,Exynos,8.0, 2.7 ,Android v9.0 (Pie),8 GB RAM, 128 GB inbuilt,4100 mAh ,15W,1,1,0,0,1,1,0,6.4, 1440x3040,16 , 10 ,1.0,81.0,42999
+Nokia,,,,,,,,,1,0,0,0,0,0,0,,,,,,,4649
+Realme,Dimensity,8.0, 2.2 ,Android v12,6 GB RAM, 128 GB inbuilt,4200 mAh ,66W,1,1,1,0,1,0,0,6.4, 1080x2400,50 , 16 ,0.0,78.0,24999
+OPPO,Snapdragon,8.0, 2.4 ,Android v12,8 GB RAM, 128 GB inbuilt,4500 mAh ,33W,1,1,0,0,1,0,0,6.5, 1080x2400,64 , 32 ,1.0,82.0,20999
+Realme,Snapdragon,8.0, 2.84 ,,8 GB RAM, 128 GB inbuilt,5000 mAh ,65W,1,1,1,0,1,1,0,6.62, 1080x2400,50 , 16 ,,84.0,28994
+Samsung,Exynos,8.0, 2.9 ,,8 GB RAM, 128 GB inbuilt,4000 mAh ,25W,1,1,1,0,1,1,0,6.2, 1080x2400,64 , 10 ,,88.0,48900
+Samsung,Snapdragon,8.0, 2.2 ,Android v10,8 GB RAM, 128 GB inbuilt,4500 mAh ,25W,1,1,0,0,1,0,0,6.7, 1080x2400,64 , 32 ,1.0,86.0,22494
+Vivo,Helio,8.0, 2.3 ,Android v12,3 GB RAM, 32 GB inbuilt,5000 mAh ,10W,1,1,0,0,1,0,0,6.51, 720x1600,8 , 5 ,1.0,61.0,8990
+Letv,Unisoc,8.0,,,4 GB RAM, 32 GB inbuilt,4000 mAh ,,1,1,0,0,1,0,0,6.5, 720x1560,13 , 8 ,,,6999
+Tecno,Unisoc,8.0, 2 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.6, 720x1612,13 , 8 ,1.0,63.0,8890
+iQOO,Snapdragon,8.0, 2.2 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,0,6.58, 1080x2408,50 , 16 ,1.0,82.0,18498
+Vivo,Snapdragon,8.0, 2.4 ,Android v12,6 GB RAM, 128 GB inbuilt,4700 mAh ,66W,1,1,1,0,1,0,0,6.44, 1080x2404,64 , 16 ,1.0,81.0,23999
+Realme,Dimensity,8.0, 2.5 ,Android v12,8 GB RAM, 128 GB inbuilt,4500 mAh ,60W,1,1,1,0,1,0,0,6.4, 1080x2400,50 , 16 ,0.0,81.0,22994
+Samsung,Exynos,8.0, 2 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,15W,1,1,0,0,1,0,0,6.5, 720x1600,50 , 5 ,1.0,71.0,12990
+Realme,Snapdragon,8.0, 2.4 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,0,6.6, 1080x2412,50 , 16 ,1.0,78.0,14999
+Realme,Dimensity,8.0, 2.2 ,Android v11,8 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,0,6.5, 1080x2400,48 , 16 ,1.0,80.0,18499
+OPPO,Snapdragon,8.0, 2 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,0,6.4, 1080x2400,48 , 16 ,1.0,78.0,14990
+OPPO,Dimensity,8.0, 3.2 ,,8 GB RAM, 256 GB inbuilt,4300 mAh ,44W,0,1,1,0,1,1,0,6.8, 1080x2520,,,,88.0,70990
+Samsung,Helio,8.0, 2 ,Android v11,4 GB RAM, 64 GB inbuilt,6000 mAh ,15W,1,1,0,0,1,0,0,6.4, 1080x2400,64 , 20 ,1.0,75.0,12120
+Oukitel,Helio,8.0, 2 ,Android v12,8 GB RAM, 256 GB inbuilt,21000 mAh ,33W,1,1,0,0,1,1,0,6.78, 1080x2400,64 , 16 ,1.0,84.0,29990
+Realme,Snapdragon,8.0, 2.2 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,0,6.6, 1080x2412,64 , 16 ,1.0,82.0,20999
+Xiaomi,Snapdragon,8.0, 2.3 ,Android v10.0,6 GB RAM, 128 GB inbuilt,5020 mAh ,18W,1,1,0,0,1,0,1,6.67, 1080x2400,48 , 16 ,1.0,80.0,11999
+Samsung,Dimensity,8.0, 2.2 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,15W,1,1,1,0,1,1,0,6.5, 720x1600,50 , 5 ,1.0,73.0,17990
+Xiaomi,Dimensity,8.0, 2.4 ,Android v11,4 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,1,6.6, 1080x2400,50 , 16 ,1.0,77.0,14990
+itel,Unisoc,4.0, 1.3 ,,1 GB RAM, 16 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.5, 1600x720,8 , 8 ,,,6490
+Jio,,2.0,,,512 MB RAM, 4 GB inbuilt,2000 mAh ,,1,1,0,0,1,0,0,2.4, 320x240,2 , 0.3 ,1.0,,2999
+Realme,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,4600 mAh ,240W,1,1,1,0,1,1,0,6.7, 1080x2412,50 , 16 ,,83.0,34999
+Apple,Bionic,8.0,,iOS v17,8 GB RAM, 128 GB inbuilt,4700 mAh ,,1,1,1,0,1,1,0,6.73, 1290x2796,48 , 12 ,0.0,79.0,149900
+POCO,Helio,4.0, 2 ,Android v12,2 GB RAM, 32 GB inbuilt,5000 mAh ,10W,1,1,0,0,1,0,0,6.52, 720x1600,8 , 5 ,1.0,,6499
+Samsung,Snapdragon,8.0, 3.2 ,Android v12,12 GB RAM, 256 GB inbuilt,4500 mAh ,67W,1,1,1,0,1,1,0,6.71, 1440x3214,200 , 10 ,1.0,,104999
+Realme,Snapdragon,8.0, 2.4 ,Android v11,4 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,0,6.6, 1080x2412,50 , 16 ,1.0,75.0,13999
+Xiaomi,Dimensity,8.0, 2.4 ,Android v11,6 GB RAM, 64 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,1,6.6, 1080x2400,50 , 16 ,1.0,79.0,16999
+Vivo,Snapdragon,8.0, 3 ,Android v12,12 GB RAM, 256 GB inbuilt,4700 mAh ,80W,1,1,1,0,1,1,0,6.78, 1440x3200,50 , 32 ,0.0,,79999
+OPPO,Dimensity,8.0, 3 ,Android v11,12 GB RAM, 256 GB inbuilt,4500 mAh ,65W,1,1,1,0,1,1,0,6.55, 1080x2400,64 , 32 ,0.0,87.0,36760
+Xiaomi,Dimensity,8.0, 2.5 ,Android v11,6 GB RAM, 128 GB inbuilt,5160 mAh ,67W,1,1,1,0,1,0,1,6.67, 2400x1080,108 , 16 ,1.0,81.0,23499
+Asus,Snapdragon,8.0, 3.2 ,Android v13,18 GB RAM, 256 GB inbuilt,6000 mAh ,120W,1,1,1,0,1,1,0,6.8, 1080x2448,64 , 32 ,0.0,87.0,75990
+OPPO,Snapdragon,8.0, 2.4 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,0,6.56, 720x1600,48 , 8 ,1.0,76.0,21990
+Realme,Snapdragon,8.0, 2.4 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,30W,1,1,1,0,1,0,0,6.6, 1080x2412,48 , 16 ,1.0,80.0,18999
+Samsung,Unisoc,8.0, 1.6 ,Android v11,3 GB RAM, 32 GB inbuilt,5000 mAh ,15W,1,1,0,0,1,0,0,6.5, 720x1560,48 , 5 ,1.0,66.0,7249
+OnePlus,Snapdragon,8.0, 2 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,1,0,6.49, 1080x2400,13 , 16 ,1.0,75.0,16990
+Xiaomi,Snapdragon,8.0, 3.2 ,,6 GB RAM, 128 GB inbuilt,4520 mAh ,33W,1,1,1,0,1,0,1,6.67, 1080x2400,48 , 20 ,,80.0,23890
+OPPO,Dimensity,8.0, 2 ,Android v11,8 GB RAM, 128 GB inbuilt,4300 mAh ,65W,1,1,1,0,1,1,0,6.43, 1080x2400,64 , 32 ,0.0,83.0,26380
+Realme,Snapdragon,8.0, 2.84 ,Android v10,12 GB RAM, 256 GB inbuilt,4200 mAh ,65W,1,1,1,0,1,1,0,6.44, 1080x2400,64 , 32 ,0.0,87.0,27999
+Xiaomi,Helio,8.0, 2 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.53, 720x1600,13 , 5 ,1.0,70.0,10850
+Xiaomi,Snapdragon,8.0, 2.4 ,Android v13,6 GB RAM, 128 GB inbuilt,5000 mAh ,67W,1,1,1,0,1,1,1,6.67, 1080x2400,108 , 16 ,0.0,81.0,19999
+Apple,Bionic,6.0,,iOS v16,6 GB RAM, 256 GB inbuilt,3200 mAh ,,1,1,1,0,1,1,0,6.1, 1179x2556,48 , 12 ,0.0,76.0,129990
+Motorola,Snapdragon,8.0, 2.2 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,1,0,6.5, 1080x2400,108 , 16 ,0.0,81.0,19990
+Motorola,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,4450 mAh ,125W,1,1,1,0,1,1,0,6.67, 1080x2400,200 , 60 ,,,41990
+Xiaomi,Snapdragon,8.0, 3.2 ,,8 GB RAM, 256 GB inbuilt,4860 mAh ,67W,1,1,1,0,1,1,1,6.73, 1440x3200,50 , 32 ,,,69990
+Honor,Snapdragon,8.0, 2.5 ,,12 GB RAM, 512 GB inbuilt,4800 mAh ,66W,1,1,1,0,1,1,0,6.67, 1080x2400,54 , 32 ,,88.0,39990
+OnePlus,Snapdragon,8.0, 3 ,,12 GB RAM, 512 GB inbuilt,5000 mAh ,80W,1,1,1,0,1,1,0,6.7, 1440x3216,50 , 32 ,,,74999
+Vivo,Dimensity,8.0, 3 ,Android v12,12 GB RAM, 256 GB inbuilt,4300 mAh ,44W,1,1,1,0,1,0,0,6.56, 1080x2376,108 , 50 ,0.0,87.0,36994
+OPPO,Helio,8.0, 2.3 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.51, 720x1600,50 , 16 ,1.0,76.0,14700
+Xiaomi,Snapdragon,8.0, 2.84 ,,8 GB RAM, 128 GB inbuilt,5000 mAh ,120W,1,1,1,0,1,1,1,6.67, 1080x2400,108 , 16 ,,86.0,34990
+Nokia,Snapdragon,,,Android v11,6 GB RAM, 64 GB inbuilt,6000 mAh ,33W,0,1,1,0,1,0,0,6.81, 1080x2400,108 , 32 ,1.0,76.0,34999
+Xiaomi,Snapdragon,8.0, 2.2 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,1,6.43, 1080x2400,48 , 13 ,1.0,75.0,13990
+Vertu,Snapdragon,8.0, 1.5 ,Android v4.4.2 (KitKat),2 GB RAM, 64 GB inbuilt,2275 mAh ,,0,0,0,0,1,1,0,4.7, 1080x1920,13 , 2.1 ,0.0,62.0,650000
+Samsung,Helio,8.0, 2 ,Android v11,6 GB RAM, 128 GB inbuilt,6000 mAh ,15W,1,1,0,0,1,0,0,6.4, 1080x2400,64 , 20 ,1.0,79.0,14859
+Tecno,Helio,8.0, 2.05 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,1,0,6.8, 1080x2460,64 , 32 ,1.0,84.0,17999
+POCO,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,4700 mAh ,67W,1,1,1,0,1,1,0,6.7, 1080x2400,64 , 32 ,,85.0,34990
+BLU,Dimensity,8.0, 2.4 ,Android v11,8 GB RAM, 128 GB inbuilt,5000 mAh ,,1,1,1,0,1,1,0,6.8, 1080x2460,48 , 16 ,1.0,85.0,14990
+OPPO,Helio,8.0, 2 ,Android v11,3 GB RAM, 32 GB inbuilt,4230 mAh ,,1,1,0,0,1,0,0,6.52, 720x1600,13 , 5 ,1.0,65.0,8999
+Motorola,Helio,8.0, 2.3 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,10W,1,1,0,0,1,0,0,6.5, 720x1600,50 , 8 ,1.0,71.0,8999
+Xiaomi,Helio,8.0, 2.05 ,Android v11,8 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,1,6.43, 1080x2400,108 , 16 ,1.0,84.0,15824
+Apple,Bionic,6.0, 3.22 ,,,,,,1,1,1,0,1,1,0,,,,,,,43900
+Samsung,Snapdragon,8.0, 2.3 ,Android v11,8 GB RAM, 128 GB inbuilt,4500 mAh ,25W,1,1,0,0,1,0,0,6.5, 1080x2400,64 , 32 ,1.0,86.0,22494
+POCO,Snapdragon,8.0, 2.96 ,Android v11,6 GB RAM, 128 GB inbuilt,5160 mAh ,33W,1,1,0,0,1,0,1,6.67, 1080x2400,48 , 20 ,1.0,82.0,19650
+Xiaomi,Helio,8.0, 2 ,Android v10,2 GB RAM, 32 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.53, 720x1600,13 , 5 ,1.0,61.0,6999
+Samsung,Helio,8.0, 2 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,15W,1,1,0,0,1,0,0,6.4, 1080x2400,64 , 20 ,1.0,80.0,16499
+Motorola,Helio,8.0, 2 ,Android v13,4 GB RAM, 128 GB inbuilt,5000 mAh ,10W,1,1,0,0,1,1,0,6.5, 720x1600,50 , 8 ,1.0,75.0,15999
+Asus,Dimensity,8.0, 3.2 ,Android v12,16 GB RAM, 256 GB inbuilt,6000 mAh ,65W,1,1,1,0,1,1,0,6.78, 1080x2448,50 , 12 ,0.0,88.0,72999
+Xiaomi,Dimensity,8.0, 2.6 ,Android v12,6 GB RAM, 128 GB inbuilt,4980 mAh ,120W,1,1,1,0,1,0,1,6.67, 1080x2400,200 , 16 ,0.0,84.0,26999
+Infinix,Helio,4.0, 2 ,Android v11,2 GB RAM, 32 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.6, 720x1600,8 , 5 ,1.0,,6999
+Apple,Bionic,,,,8 GB RAM, 128 GB inbuilt,,,1,1,1,0,1,1,0,,,,,,75.0,130990
+Realme,Tiger,8.0, 1.8 ,Android v11,4 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.6, 1080x2408,50 , 8 ,1.0,71.0,12787
+Infinix,Helio,8.0, 2.3 ,Android v11,4 GB RAM, 64 GB inbuilt,6000 mAh ,18W,1,1,0,0,1,0,0,6.82, 720x1640,50 , 8 ,1.0,72.0,9999
+Vivo,Dimensity,8.0, 3.05 ,Android v12,8 GB RAM, 128 GB inbuilt,4500 mAh ,80W,1,1,1,0,1,0,0,6.78, 1080x2400,50 , 32 ,0.0,86.0,54999
+Vivo,Helio,8.0, 2 ,Android v11,8 GB RAM, 128 GB inbuilt,5000 mAh ,19W,1,1,0,0,1,0,0,6.58, 1080x2408,64 , 16 ,1.0,79.0,15490
+Tecno,Helio,8.0, 2.05 ,,8 GB RAM, 256 GB inbuilt,4700 mAh ,33W,1,1,0,0,1,0,0,6.7, 1080x2340,50 , 48 ,,84.0,25999
+Samsung,Helio,8.0, 2.3 ,Android v12,4 GB RAM, 128 GB inbuilt,5000 mAh ,15W,1,1,0,0,1,0,0,6.5, 720x1600,13 , 5 ,1.0,68.0,9499
+Xiaomi,Helio,8.0, 2 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.71, 720x1650,50 , 5 ,1.0,70.0,7999
+Asus,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,4300 mAh ,30W,1,1,1,0,1,1,0,5.9, 1080x2400,50 , 12 ,,86.0,63990
+Sony,Helio,8.0, 2.3 ,Android v12,4 GB RAM, 64 GB inbuilt,4000 mAh ,,0,1,0,0,1,1,0,6.2, 720x1680,13 , 8 ,1.0,73.0,15990
+iQOO,Snapdragon,8.0, 2.84 ,,12 GB RAM, 256 GB inbuilt,4500 mAh ,66W,1,1,1,0,1,1,0,6.62, 1080x2400,48 , 16 ,,85.0,34949
+Tecno,Helio,8.0, 2 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,0,6.8, 1080x2460,48 , 8 ,1.0,72.0,8799
+Xiaomi,Helio,8.0, 2 ,Android v11,4 GB RAM, 64 GB inbuilt,6000 mAh ,18W,1,1,0,0,1,0,1,6.5, 1080x2400,50 , 8 ,1.0,74.0,12390
+Samsung,Helio,8.0, 2 ,Android v11,4 GB RAM, 64 GB inbuilt,6000 mAh ,,1,1,0,0,1,0,0,6.4, 720x1600,48 , 13 ,1.0,73.0,11499
+Xiaomi,Snapdragon,8.0, 2.96 ,Android v10,12 GB RAM, 512 GB inbuilt,4050 mAh ,40W,1,1,1,0,1,0,0,7.92, 2088x2250,108 ,,0.0,,199990
+OPPO,Dimensity,8.0, 3.05 ,,16 GB RAM, 256 GB inbuilt,5000 mAh ,120W,1,1,1,0,1,1,0,6.73, 1080x2412,50 , 32 ,,86.0,42990
+Nubia,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,5000 mAh ,80W,1,1,1,0,1,1,0,6.67, 1080x2400,64 , 16 ,,82.0,34999
+Samsung,Exynos,8.0, 2 ,Android v12,4 GB RAM, 128 GB inbuilt,6000 mAh ,15W,1,1,0,0,1,1,0,6.6, 2408x1080,50 , 8 ,1.0,75.0,11999
+Nokia,Unisoc,8.0, 1.6 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,10W,1,1,0,0,1,0,0,6.52, 720x1600,50 , 8 ,1.0,70.0,10499
+Infinix,Tiger,8.0, 1.82 ,Android v11,4 GB RAM, 64 GB inbuilt,6000 mAh ,18W,1,1,0,0,1,0,0,6.82, 1640x720,13 , 8 ,1.0,66.0,8910
+Vivo,Snapdragon,8.0, 3.2 ,Android v12,8 GB RAM, 128 GB inbuilt,4700 mAh ,80W,1,1,1,0,1,0,0,6.62, 1080x2400,64 , 16 ,1.0,85.0,24990
+OPPO,Snapdragon,8.0, 2.2 ,Android v11,8 GB RAM, 128 GB inbuilt,4500 mAh ,33W,1,1,1,0,1,1,0,6.43, 1080x2400,64 , 16 ,1.0,84.0,17999
+Xiaomi,Snapdragon,8.0, 2.4 ,Android v11,8 GB RAM, 128 GB inbuilt,4250 mAh ,33W,1,1,1,0,1,1,1,6.55, 1080x2400,64 , 20 ,1.0,86.0,22999
+Realme,Unisoc,8.0, 1.6 ,Android v11,2 GB RAM, 32 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.5, 720x1600,8 , 5 ,1.0,,6490
+Infinix,Helio,8.0, 2.05 ,Android v11,8 GB RAM, 128 GB inbuilt,4500 mAh ,45W,1,1,1,0,1,0,0,6.67, 1080x2400,108 , 16 ,1.0,85.0,21990
+Nokia,,,,,128 MB RAM, 48 MB inbuilt,1020 mAh ,,1,1,0,0,0,0,0,1.8, 120x160,0.3 ,,1.0,,1762
+Samsung,Helio,8.0, 2 ,Android v11,4 GB RAM, 64 GB inbuilt,6000 mAh ,15W,1,1,0,0,1,0,0,6.4, 1080x2400,64 , 20 ,1.0,76.0,12364
+Samsung,Snapdragon,8.0, 2.96 ,Android v11,6 GB RAM, 128 GB inbuilt,4500 mAh ,25W,1,1,1,0,1,1,0,6.71, 1440x3200,64 , 10 ,1.0,86.0,39990
+Xiaomi,Snapdragon,8.0, 2.8 ,Android v8.1 (Oreo),6 GB RAM, 64 GB inbuilt,4000 mAh ,,1,1,0,0,1,0,0,6.18, 1080x2246,12 , 20 ,1.0,77.0,11999
+Vivo,Helio,4.0, 1.3 ,Android v5.1 (Lollipop),1 GB RAM, 16 GB inbuilt,1900 mAh ,,1,0,0,0,1,0,0,4.5, 480x854,5 , 2 ,1.0,,7499
+Lyf,Snapdragon,8.0, 1.5 ,Android v5.1.1 (Lollipop),3 GB RAM, 32 GB inbuilt,3500 mAh ,,1,1,0,0,1,0,0,5.5, 1080x1920,13 , 5 ,1.0,60.0,3990
+Motorola,Tiger,8.0, 2 ,Android v13,2 GB RAM, 64 GB inbuilt,5000 mAh ,10W,1,1,0,0,1,0,0,6.5, 720x1600,13 , 5 ,1.0,65.0,10499
+Tecno,Helio,4.0, 2 ,Android v12,2 GB RAM, 32 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.56, 720x1600,8 , 5 ,1.0,,6299
+Itel,Unisoc,4.0, 1.4 ,Android v12,2 GB RAM, 32 GB inbuilt,3020 mAh ,,1,0,0,0,1,0,0,5.0, 854x480,2 , 0.3 ,1.0,,5990
+Vivo,Snapdragon,8.0, 3.2 ,Android v12,12 GB RAM, 256 GB inbuilt,4730 mAh ,80W,1,1,1,0,1,1,0,8.03, 1916x2160,,,,,113990
+Huawei,Snapdragon,8.0, 3.2 ,Hongmeng OS v3.0,,,4700 mAh ,66W,1,1,0,0,1,1,1,6.74, 1212x2616,50 , 13 ,1.0,81.0,239999
+Samsung,Dimensity,8.0, 2 ,Android v12,6 GB RAM, 128 GB inbuilt,7000 mAh ,33W,1,1,1,0,1,1,0,6.7, 1080x2400,64 , 32 ,1.0,84.0,21999
+iQOO,Snapdragon,8.0, 2.4 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,44W,1,1,0,0,1,0,0,6.44, 1080x2400,50 , 16 ,1.0,80.0,15999
+Nokia,Snapdragon,4.0, 1.1 ,,512 MB RAM, 4 GB inbuilt,1500 mAh ,,1,0,0,0,1,0,0,2.8, 240x320,2 ,,1.0,,6899
+Sony,Snapdragon,8.0, 2.84 ,Android v10,8 GB RAM, 128 GB inbuilt,4000 mAh ,21W,1,1,1,0,1,1,0,6.1, 1080x2520,12 , 8 ,1.0,86.0,69990
+Vivo,Helio,8.0, 2.3 ,Android v9.0 (Pie),4 GB RAM, 128 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.35, 720x1544,13 , 16 ,1.0,71.0,12990
+Sony,Snapdragon,8.0, 3 ,Android v12,12 GB RAM, 512 GB inbuilt,5000 mAh ,30W,1,1,1,0,1,1,0,6.5, 1644x3840,12 , 12 ,1.0,,92980
+Tecno,Helio,8.0, 2.2 ,Android v12,8 GB RAM, 256 GB inbuilt,6000 mAh ,45W,1,1,0,0,1,0,0,6.66, 720x1600,50 , 8 ,1.0,74.0,15999
+Huawei,Snapdragon,8.0, 2.4 ,Android v12,8 GB RAM, 256 GB inbuilt,4500 mAh ,66W,1,1,0,0,1,1,0,6.67, 1080x2160,108 , 16 ,1.0,84.0,23999
+Vivo,Snapdragon,8.0, 2.4 ,Android v12,4 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.58, 1080x2408,50 , 8 ,1.0,75.0,12999
+Nubia,Snapdragon,8.0, 3.2 ,,12 GB RAM, 256 GB inbuilt,5000 mAh ,135W,1,1,1,0,1,1,0,6.8, 1080x2400,64 , 8 ,,86.0,60990
+Motorola,Helio,8.0, 1.8 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.5, 720x1600,16 , 8 ,1.0,67.0,8859
+iQOO,Snapdragon,8.0, 3.2 ,,12 GB RAM, 256 GB inbuilt,4700 mAh ,80W,1,1,1,0,1,0,1,6.62, 1080x2400,64 , 16 ,,84.0,33749
+Samsung,,8.0,,Android v12,6 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.5, 720x1600,48 , 8 ,1.0,63.0,15990
+POCO,Dimensity,8.0, 2.85 ,Android v12,8 GB RAM, 128 GB inbuilt,5080 mAh ,67W,1,1,1,0,1,1,1,6.6, 1080x2460,64 , 16 ,0.0,84.0,24990
+Realme,Dimensity,8.0, 2.4 ,Android v11,4 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,0,6.6, 1080x2400,48 , 16 ,1.0,76.0,14999
+Vivo,Dimensity,8.0, 2.2 ,Android v12,6 GB RAM, 128 GB inbuilt,4500 mAh ,80W,1,1,1,0,1,0,0,6.64, 1080x2388,50 , 8 ,1.0,76.0,17990
+Honor,Dimensity,8.0, 2 ,,8 GB RAM, 128 GB inbuilt,4300 mAh ,66W,1,1,1,0,1,0,0,6.67, 1080x2340,64 , 16 ,,75.0,24990
+Xiaomi,Helio,8.0, 2.2 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,1,6.58, 1080x2400,50 , 8 ,1.0,74.0,11600
+Realme,Tiger,8.0, 1.82 ,Android v11,3 GB RAM, 32 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.52, 720x1600,13 , 5 ,1.0,62.0,8299
+Motorola,Helio,8.0, 2 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,20W,1,1,0,0,1,0,0,6.47, 1080x2400,50 , 13 ,1.0,78.0,11999
+Samsung,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,3700 mAh ,25W,1,1,1,0,1,1,0,6.7, 1080x2640,,,,88.0,89999
+OnePlus,Snapdragon,8.0, 2.8 ,Android v8.1 (Oreo),8 GB RAM, 128 GB inbuilt,3300 mAh ,,1,1,0,0,1,1,0,6.28, 1080x2280,20 , 16 ,0.0,77.0,27999
+Google,Snapdragon,8.0, 2.35 ,Android v8.0 (Oreo),4 GB RAM, 128 GB inbuilt,3520 mAh ,,0,1,0,0,1,1,0,6.0, 1440x2880,12.2 , 8 ,0.0,69.0,15990
+Xiaomi,Helio,4.0, 2 ,Android v12,2 GB RAM, 32 GB inbuilt,5000 mAh ,10W,1,1,0,0,1,0,0,6.52, 720x1600,8 , 5 ,1.0,60.0,7289
+Honor,Snapdragon,8.0, 2.5 ,,8 GB RAM, 256 GB inbuilt,4800 mAh ,66W,1,1,1,0,1,1,0,6.67, 1080x2400,54 , 32 ,,86.0,30990
+Realme,Helio,8.0, 2 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,0,6.6, 1080x2412,50 , 16 ,1.0,77.0,15499
+Vivo,Helio,8.0, 2.3 ,Android v11,3 GB RAM, 32 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.51, 720x1600,13 , 8 ,1.0,66.0,8499
+Samsung,Helio,8.0, 2 ,Android v11,6 GB RAM, 128 GB inbuilt,6000 mAh ,15W,1,1,0,0,1,0,0,6.4, 1080x2400,64 , 20 ,1.0,80.0,14490
+Samsung,Dimensity,8.0, 2.2 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,15W,1,1,1,0,1,0,0,6.6, 1080x2408,64 , 8 ,1.0,80.0,15490
+Realme,Snapdragon,8.0, 2.2 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,60W,1,1,1,0,1,0,0,6.6, 1080x2412,50 , 16 ,1.0,78.0,14990
+POCO,Dimensity,8.0, 2.2 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,1,6.5, 1080x2400,48 , 8 ,1.0,75.0,15999
+Google,Snapdragon,8.0, 2.4 ,,8 GB RAM, 128 GB inbuilt,4080 mAh ,18W,1,1,1,0,1,1,0,6.0, 1080x2340,16 , 8 ,,82.0,36000
+OnePlus,Snapdragon,8.0, 3.2 ,,12 GB RAM, 256 GB inbuilt,4800 mAh ,150W,1,1,1,1,1,1,0,6.73, 1440x3412,108 , 32 ,,,69999
+Xiaomi,Dimensity,8.0, 2.6 ,Android v12,8 GB RAM, 256 GB inbuilt,4300 mAh ,210W,1,1,1,0,1,1,1,6.67, 1080x2400,200 , 16 ,0.0,86.0,26990
+Samsung,Exynos,8.0, 2 ,Android v12,4 GB RAM, 64 GB inbuilt,6000 mAh ,15W,1,1,0,0,1,0,0,6.6, 1080x2400,50 , 8 ,1.0,71.0,10630
+OPPO,Dimensity,8.0, 2.85 ,,8 GB RAM, 256 GB inbuilt,4500 mAh ,80W,1,1,1,0,1,1,0,6.7, 1080x2412,50 , 32 ,,85.0,42990
+Vivo,Dimensity,8.0, 3 ,Android v12,8 GB RAM, 128 GB inbuilt,4500 mAh ,,1,1,1,0,1,0,0,6.58, 1080x2400,50 , 16 ,0.0,77.0,24990
+iQOO,Snapdragon,8.0, 2.4 ,Android v12,4 GB RAM, 128 GB inbuilt,5000 mAh ,44W,1,1,0,0,1,0,0,6.44, 1080x2400,50 , 16 ,1.0,77.0,14489
+OPPO,Snapdragon,8.0, 2.4 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,0,6.56, 720x1612,13 , 8 ,1.0,73.0,16490
+Realme,Dimensity,8.0, 2.5 ,Android v12,8 GB RAM, 256 GB inbuilt,4500 mAh ,60W,1,1,1,0,1,0,0,6.4, 1080x2400,50 , 16 ,0.0,82.0,24494
+Vivo,Helio,8.0, 2.3 ,Android v11,2 GB RAM, 32 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.51, 720x1600,8 , 5 ,1.0,61.0,7999
+Motorola,Snapdragon,8.0, 2.9 ,,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,0,6.8, 1080x2460,108 , 16 ,,85.0,23990
+Realme,Snapdragon,8.0, 3 ,,8 GB RAM, 128 GB inbuilt,5000 mAh ,65W,1,1,1,0,1,1,0,6.7, 1440x3216,50 , 32 ,,89.0,49959
+Apple,Bionic,6.0, 3.22 ,iOS v15.0,6 GB RAM, 256 GB inbuilt,3095 mAh ,,1,1,1,0,1,1,0,6.1, 1170x2532,12 , 12 ,0.0,83.0,129900
+Vivo,Helio,8.0, 2.05 ,Android v11,8 GB RAM, 128 GB inbuilt,4000 mAh ,33W,1,1,0,0,1,0,0,6.44, 1080x2400,64 , 16 ,1.0,80.0,19990
+Samsung,,8.0,,Android v13,4 GB RAM, 64 GB inbuilt,5000 mAh ,25W,1,1,0,0,1,1,0,6.62, 2408x1080,50 , 16 ,1.0,67.0,14990
+Vivo,Snapdragon,8.0, 2.3 ,Android v11,8 GB RAM, 128 GB inbuilt,4000 mAh ,33W,1,1,0,0,1,0,0,6.44, 1080x2400,64 , 44 ,1.0,85.0,23269
+Xiaomi,Snapdragon,8.0, 2.3 ,Android v10.0,4 GB RAM, 64 GB inbuilt,5020 mAh ,18W,1,1,0,0,1,0,1,6.67, 1080x2400,48 , 16 ,1.0,75.0,13999
+Samsung,,,,,,,800 mAh ,,1,0,0,0,0,0,0,2.0, 128x160,,,1.0,,1949
+Itel,,,,,64 MB RAM, 128 MB inbuilt,2500 mAh ,,1,1,0,0,1,0,0,2.4, 320x240,0.3 ,,1.0,,2799
+OnePlus,Dimensity,8.0, 2.85 ,,8 GB RAM, 128 GB inbuilt,5000 mAh ,80W,1,1,1,0,1,1,0,6.7, 1080x2412,50 , 16 ,,85.0,35389
+Google,Google,8.0, 2.8 ,,12 GB RAM, 256 GB inbuilt,5003 mAh ,30W,1,1,1,0,1,1,0,6.71, 1440x3120,50 , 11.1 ,,,79700
+Nokia,Unisoc,8.0, 1.6 ,Android v12,3 GB RAM, 32 GB inbuilt,5050 mAh ,10W,1,1,0,0,1,0,0,6.74, 720x1600,13 , 5 ,1.0,62.0,9499
+Infinix,Tiger,8.0, 2 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.6, 720x1612,50 , 8 ,1.0,76.0,12340
+POCO,Helio,8.0, 2.2 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,1,6.58, 1080x2400,50 , 8 ,1.0,74.0,10799
+Xiaomi,Snapdragon,8.0, 2.4 ,Android v11,4 GB RAM, 128 GB inbuilt,6000 mAh ,18W,1,1,0,0,1,0,0,6.7, 720x1600,50 , 5 ,1.0,73.0,14990
+ZTE,Snapdragon,8.0, 3 ,,8 GB RAM, 128 GB inbuilt,5000 mAh ,65W,1,1,1,0,1,1,0,6.8, 1116x2480,64 , 16 ,,89.0,61990
+Xiaomi,Snapdragon,8.0, 3 ,,12 GB RAM, 256 GB inbuilt,4600 mAh ,120W,1,1,1,0,1,1,1,6.73, 1440x3200,50 , 32 ,,,51880
+OPPO,Snapdragon,8.0, 2.4 ,Android v11,8 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,0,6.59, 1080x2412,50 , 16 ,1.0,80.0,16990
+Huawei,Snapdragon,8.0, 2.4 ,Android v11,8 GB RAM, 128 GB inbuilt,4000 mAh ,66W,1,1,0,0,1,1,0,6.78, 1080x2388,108 , 16 ,1.0,84.0,19990
+Samsung,Snapdragon,8.0, 3 ,,8 GB RAM, 256 GB inbuilt,3700 mAh ,25W,1,1,1,0,1,1,0,6.1, 1080x2340,50 , 10 ,,87.0,57999
+Lenovo,Snapdragon,8.0, 3 ,,12 GB RAM, 256 GB inbuilt,5600 mAh ,68W,1,1,1,0,1,1,0,6.92, 1080x2460,64 , 16 ,,87.0,46990
+Vivo,Dimensity,8.0, 2.2 ,Android v11,4 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,1,0,6.58, 1080x2408,50 , 8 ,1.0,77.0,20990
+Nokia,Snapdragon,8.0, 2 ,Android v11,6 GB RAM, 128 GB inbuilt,4470 mAh ,18W,1,1,1,0,1,1,0,6.67, 1080x2400,48 , 16 ,1.0,82.0,17990
+Realme,Dimensity,8.0, 2.4 ,Android v11,8 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,0,6.5, 1080x2400,64 , 16 ,1.0,82.0,17499
+Realme,Dimensity,8.0, 2.4 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,0,6.5, 1080x2400,64 , 16 ,1.0,80.0,17999
+Nokia,Snapdragon,8.0, 3.2 ,Android v11,8 GB RAM, 128 GB inbuilt,6000 mAh ,44W,1,1,1,0,1,0,0,6.51, 1080x2408,200 , 32 ,1.0,,49990
+itel,,,,,,,,,1,1,0,0,1,0,0,,,,,,,2399
+POCO,Snapdragon,8.0, 2.2 ,Android v12,4 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,1,6.67, 1080x2400,48 , 8 ,0.0,74.0,14999
+Xiaomi,Snapdragon,8.0, 2.3 ,Android v11,6 GB RAM, 128 GB inbuilt,5020 mAh ,33W,1,1,0,0,1,0,1,6.67, 1080x2400,108 , 16 ,1.0,82.0,19980
+iQOO,Snapdragon,8.0, 3.2 ,,12 GB RAM, 256 GB inbuilt,4400 mAh ,66W,1,1,1,0,1,1,0,6.62, 1080x2400,48 , 16 ,,85.0,35990
+Realme,Helio,8.0, 2 ,Android v11,4 GB RAM, 128 GB inbuilt,5000 mAh ,30W,1,1,0,0,1,0,0,6.4, 1080x2400,64 , 16 ,1.0,78.0,15999
+Samsung,Exynos,8.0, 2.73 ,Android v10.0,8 GB RAM, 128 GB inbuilt,4000 mAh ,25W,1,1,0,0,1,1,0,6.2, 1440x3200,64 , 10 ,1.0,88.0,41999
+Xiaomi,Dimensity,8.0, 3.1 ,,8 GB RAM, 128 GB inbuilt,5500 mAh ,67W,1,1,1,0,1,1,1,6.67, 1440x3200,48 , 20 ,,83.0,25999
+Motorola,Helio,8.0, 1.8 ,Android v12,3 GB RAM, 32 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.5, 720x1600,16 , 8 ,1.0,65.0,7990
+OnePlus,Dimensity,8.0, 3 ,,8 GB RAM, 128 GB inbuilt,4500 mAh ,80W,1,1,1,0,1,1,0,6.43, 1080x2400,50 , 32 ,,84.0,29990
+OPPO,Snapdragon,8.0, 2.36 ,Android v12,8 GB RAM, 128 GB inbuilt,4500 mAh ,65W,1,1,1,0,1,0,0,6.43, 1080x2460,50 , 16 ,1.0,83.0,27990
+POCO,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,5500 mAh ,67W,1,1,1,0,1,1,1,6.67, 1440x3200,64 , 16 ,,84.0,29999
+OPPO,Helio,8.0, 2 ,Android v11,4 GB RAM, 64 GB inbuilt,4230 mAh ,,1,1,0,0,1,0,0,6.52, 720x1600,13 , 5 ,1.0,68.0,8999
+POCO,Helio,8.0, 2.05 ,Android v11,8 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,1,6.43, 1080x2400,64 , 16 ,1.0,81.0,13999
+Realme,Helio,8.0, 2 ,Android v11,4 GB RAM, 64 GB inbuilt,6000 mAh ,18W,1,1,0,0,1,0,0,6.5, 720x1600,50 , 8 ,1.0,71.0,11499
+Asus,Snapdragon,8.0, 2.9 ,,8 GB RAM, 128 GB inbuilt,6000 mAh ,65W,1,1,1,0,1,1,0,6.78, 1080x2448,64 , 24 ,,87.0,39999
+Realme,Snapdragon,8.0, 2.4 ,,8 GB RAM, 128 GB inbuilt,4300 mAh ,65W,1,1,1,0,1,1,0,6.43, 1080x2400,64 , 32 ,,84.0,27999
+Samsung,Dimensity,8.0, 2 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,15W,1,1,1,0,1,1,0,6.5, 720x1600,48 , 13 ,1.0,79.0,24499
+Nubia,Snapdragon,8.0, 3.2 ,,12 GB RAM, 256 GB inbuilt,5000 mAh ,165W,1,1,1,0,1,1,0,6.8, 1116x2480,50 , 16 ,,86.0,60999
+Samsung,Snapdragon,8.0, 2.84 ,Android v11,12 GB RAM, 256 GB inbuilt,4400 mAh ,25W,1,1,1,0,1,1,0,7.6, 1768x2208,,,,89.0,110999
+LG,Snapdragon,8.0, 2.4 ,,8 GB RAM, 128 GB inbuilt,4000 mAh ,,1,1,1,0,1,1,0,6.8, 1080x2460,,,,89.0,54999
+Xiaomi,Snapdragon,8.0, 2.3 ,Android v10.0,6 GB RAM, 64 GB inbuilt,5020 mAh ,33W,1,1,0,0,1,0,1,6.67, 1080x2400,64 , 32 ,1.0,80.0,16490
+Samsung,Snapdragon,8.0, 2.3 ,Android v11,6 GB RAM, 128 GB inbuilt,4500 mAh ,25W,1,1,0,0,1,0,0,6.5, 1080x2400,64 , 32 ,1.0,83.0,24990
+Nokia,,,,,4 MB RAM, 4 MB inbuilt,800 mAh ,,0,0,0,0,0,0,0,1.77, 120x160,,,,,1299
+Vivo,Snapdragon,4.0, 1.4 ,Android v8.1 (Oreo),3 GB RAM, 16 GB inbuilt,3360 mAh ,,1,1,0,0,1,0,0,6.0, 720x1440,13 , 5 ,1.0,,25000
+Lyf,Snapdragon,4.0, 1.1 ,Android v6.0 (Marshmallow),1 GB RAM, 8 GB inbuilt,2000 mAh ,,1,1,0,0,1,0,0,4.5, 480x854,5 , 2 ,1.0,,1999
+Samsung,Helio,8.0, 2.3 ,Android v12,3 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.5, 720x1600,13 , 5 ,1.0,66.0,9950
+OPPO,Dimensity,8.0, 2.4 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,,1,1,1,0,1,0,0,6.56, 720x1612,13 , 8 ,1.0,75.0,12999
+OPPO,Helio,8.0, 2.2 ,Android v13,8 GB RAM, 256 GB inbuilt,5000 mAh ,66W,1,1,0,0,1,1,0,6.67, 1080x2400,50 , 16 ,1.0,83.0,19999
+OPPO,Snapdragon,8.0, 2.5 ,,8 GB RAM, 256 GB inbuilt,5000 mAh ,120W,1,1,1,0,1,1,0,6.73, 1080x2412,50 , 32 ,,84.0,32999
+Nokia,Snapdragon,8.0, 2.2 ,Android v12,6 GB RAM, 128 GB inbuilt,4500 mAh ,20W,1,1,1,0,1,1,0,6.58, 1080x2400,50 , 8 ,1.0,81.0,28498
+OPPO,Helio,8.0, 2.3 ,Android v12,4 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,0,6.56, 720x1600,50 , 8 ,1.0,71.0,15998
+Nokia,,,,,,,,,1,0,0,0,0,0,0,,,,,,,3749
+Motorola,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,4800 mAh ,125W,1,1,1,0,1,1,0,6.7, 1080x2460,50 , 60 ,,89.0,59990
+OPPO,Snapdragon,8.0, 2.2 ,,6 GB RAM, 128 GB inbuilt,5000 mAh ,67W,1,1,1,0,1,0,0,6.59, 1080x2412,64 , 16 ,,78.0,16990
+iQOO,Snapdragon,8.0, 2.4 ,Android v12,12 GB RAM, 256 GB inbuilt,4700 mAh ,66W,1,1,1,0,1,0,0,6.44, 1080x2404,64 , 16 ,0.0,82.0,27999
+Nokia,Unisoc,8.0, 1.6 ,Android v11,6 GB RAM, 128 GB inbuilt,5050 mAh ,18W,1,1,0,0,1,0,0,6.5, 720x1600,50 , 8 ,1.0,75.0,13499
+Samsung,,8.0,,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,25W,1,1,0,0,1,0,0,6.6, 1080x2408,50 , 8 ,1.0,78.0,16499
+OPPO,Helio,8.0, 2.3 ,Android v11,4 GB RAM, 64 GB inbuilt,4230 mAh ,,1,1,0,0,1,0,0,6.52, 720x1600,13 , 5 ,1.0,66.0,10999
+Xiaomi,Snapdragon,8.0, 2.4 ,Android v11,4 GB RAM, 64 GB inbuilt,6000 mAh ,18W,1,1,0,0,1,0,0,6.7, 720x1600,50 , 5 ,1.0,71.0,13990
+Tecno,Helio,8.0, 2 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.6, 1080x2460,48 , 32 ,1.0,74.0,9999
+Realme,Dimensity,8.0, 2.85 ,,8 GB RAM, 128 GB inbuilt,5000 mAh ,80W,1,1,1,0,1,1,0,6.7, 1080x2412,50 , 16 ,,83.0,31994
+Xiaomi,Dimensity,8.0, 2.5 ,Android v11,6 GB RAM, 128 GB inbuilt,4500 mAh ,120W,1,1,1,0,1,0,1,6.67, 2400x1080,108 , 16 ,1.0,83.0,24820
+iQOO,Snapdragon,8.0, 3.2 ,Android v12,8 GB RAM, 128 GB inbuilt,4700 mAh ,80W,1,1,1,0,1,0,0,6.62, 1080x2400,64 , 16 ,0.0,83.0,22990
+iQOO,Snapdragon,8.0, 3 ,,8 GB RAM, 256 GB inbuilt,4700 mAh ,120W,1,1,1,0,1,1,0,6.78, 1440x3200,50 , 16 ,,88.0,59990
+Realme,Unisoc,8.0, 1.6 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.5, 720x1600,8 , 5 ,1.0,62.0,8999
+Xiaomi,Helio,8.0, 2.3 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.53, 720x1600,13 , 5 ,1.0,72.0,10499
+Jio,Snapdragon,4.0, 1.3 ,,3 GB RAM, 32 GB inbuilt,3000 mAh ,,1,1,0,0,1,0,0,5.5, 720x1440,13 , 8 ,1.0,,7499
+Xiaomi,Helio,8.0, 2 ,Android v11,4 GB RAM, 64 GB inbuilt,4000 mAh ,18W,1,1,0,0,1,0,1,6.3, 1080x2340,48 , 13 ,1.0,75.0,9990
+Xiaomi,Dimensity,8.0, 2.2 ,Android v11,4 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,1,6.5, 1080x2400,48 , 8 ,1.0,76.0,12490
+Vivo,Helio,8.0, 2 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.51, 720x1600,13 , 8 ,1.0,69.0,13990
+Samsung,Dimensity,8.0, 2.2 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,15W,1,1,1,0,1,0,0,6.6, 1080x2408,48 , 8 ,1.0,79.0,17990
+Vivo,Dimensity,8.0, 2.4 ,Android v11,8 GB RAM, 128 GB inbuilt,4000 mAh ,33W,1,1,0,0,1,0,0,6.44, 1080x2400,64 , 44 ,1.0,83.0,24999
+Realme,Snapdragon,8.0, 2.3 ,Android v10,8 GB RAM, 128 GB inbuilt,4500 mAh ,65W,1,1,0,0,1,0,0,6.4, 1080x2400,64 , 32 ,1.0,85.0,21999
+OnePlus,Snapdragon,8.0, 2 ,Android v10,8 GB RAM, 128 GB inbuilt,4300 mAh ,30W,1,1,0,0,1,0,0,6.55, 1080x2400,48 , 16 ,0.0,77.0,19999
+Samsung,Exynos,8.0, 2.73 ,Android v10.0,12 GB RAM, 128 GB inbuilt,5000 mAh ,45W,1,1,1,0,1,1,0,6.9, 1440x3200,108 , 40 ,1.0,,99999
+Apple,Bionic,6.0, 2.65 ,iOS v13,4 GB RAM, 64 GB inbuilt,3500 mAh ,18W,1,1,0,0,1,1,0,6.5, 1242x2688,12 , 12 ,0.0,77.0,109900
+Apple,Fusion,4.0, 2.37 ,,3 GB RAM, 32 GB inbuilt,2230 mAh ,,0,1,0,0,1,0,0,4.7, 750x1334,13 , 7 ,,,52990
+Namotel,,,,,,,,,1,0,0,0,1,0,0,,,,,,,99
+Sony,Snapdragon,8.0, 2 ,Android v13,8 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,1,0,6.5, 1080x2400,50 , 16 ,1.0,80.0,19990
+Samsung,Helio,8.0, 2.3 ,Android v12,4 GB RAM, 128 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.5, 720x1600,13 , 5 ,1.0,69.0,11499
+Eunity,,,,,,,,,1,0,0,0,0,0,0,,,,,,,699
+Xiaomi,Helio,8.0, 2.2 ,Android v13,4 GB RAM, 64 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,1,6.67, 1080x2400,48 , 13 ,1.0,75.0,13999
+Oukitel,Helio,8.0, 2.2 ,,12 GB RAM, 256 GB inbuilt,9800 mAh ,66W,1,1,0,0,1,0,0,6.78, 1080x2400,,,,82.0,22990
+Vivo,Snapdragon,8.0, 2.2 ,Android v13,8 GB RAM, 256 GB inbuilt,5000 mAh ,80W,1,1,1,0,1,0,0,6.7, 1080x2400,108 , 32 ,1.0,84.0,28990
+POCO,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,4500 mAh ,67W,1,1,1,0,1,1,0,6.67, 1080x2400,64 , 20 ,,85.0,27999
+Xiaomi,Dimensity,8.0, 2.85 ,Android v12,6 GB RAM, 128 GB inbuilt,5080 mAh ,67W,1,1,1,0,1,1,1,6.6, 1080x2460,64 , 16 ,1.0,82.0,19990
+Realme,Dimensity,8.0, 2.5 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,0,6.4, 1080x2400,48 , 16 ,1.0,83.0,22999
+Vivo,Snapdragon,8.0, 2.4 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,44W,1,1,0,0,1,0,0,6.44, 1080x2408,50 , 16 ,1.0,82.0,17999
+Xiaomi,Helio,8.0, 2.05 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,1,6.43, 1080x2400,108 , 16 ,1.0,81.0,15499
+Lava,Dimensity,8.0, 2.4 ,Android v11,8 GB RAM, 128 GB inbuilt,5000 mAh ,30W,1,1,1,0,1,0,0,6.78, 1080x2460,64 , 16 ,1.0,84.0,17990
+Realme,Helio,8.0, 2.05 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.6, 1080x2412,50 , 16 ,1.0,77.0,13999
+OPPO,Helio,8.0, 2.3 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.51, 720x1600,50 , 16 ,1.0,73.0,13499
+POCO,Dimensity,8.0, 2.2 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,1,6.5, 1080x2400,48 , 8 ,1.0,79.0,14799
+Realme,Unisoc,8.0, 1.8 ,Android v11,3 GB RAM, 32 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.5, 720x1600,13 , 5 ,1.0,62.0,6999
+OPPO,Helio,8.0, 2.3 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.52, 720x1600,13 , 8 ,1.0,69.0,11999
+Vivo,Dimensity,8.0, 2.4 ,Android v11,8 GB RAM, 128 GB inbuilt,4000 mAh ,33W,1,1,1,0,1,0,0,6.44, 1080x2400,64 , 44 ,1.0,85.0,23994
+Nokia,Unisoc,,,,64 MB RAM, 128 MB inbuilt,1150 mAh ,,1,1,0,0,0,0,0,2.4, 240x320,0.3 ,,1.0,,3589
+Apple,Bionic,6.0, 3.1 ,,6 GB RAM, 512 GB inbuilt,,,1,1,1,0,1,1,0,,,,,,80.0,139900
+Sony,Snapdragon,8.0, 2.84 ,Android v10,8 GB RAM, 256 GB inbuilt,4000 mAh ,21W,1,1,1,0,1,1,0,6.5, 1644x3840,12 , 8 ,1.0,89.0,69999
+Motorola,Snapdragon,8.0, 2.84 ,,12 GB RAM, 256 GB inbuilt,5000 mAh ,18W,0,1,1,0,1,1,0,6.7, 1080x2340,108 , 25 ,,89.0,57999
+Samsung,Exynos,8.0, 2.73 ,,8 GB RAM, 256 GB inbuilt,4300 mAh ,25W,1,1,0,0,1,1,0,6.7, 1080x2400,64 , 10 ,,87.0,86000
+Samsung,Helio,8.0, 2.3 ,Android v10,4 GB RAM, 64 GB inbuilt,5000 mAh ,15W,1,1,0,0,1,0,0,6.5, 720x1560,48 , 8 ,1.0,71.0,11999
+Xiaomi,Snapdragon,8.0, 2.3 ,,6 GB RAM, 128 GB inbuilt,5000 mAh ,67W,1,1,0,0,1,1,1,6.67, 1080x2400,50 , 16 ,,77.0,14999
+Realme,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,5000 mAh ,80W,1,1,1,0,1,0,0,6.62, 1080x2400,64 , 16 ,,81.0,26499
+Realme,Unisoc,8.0, 1.6 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,10W,1,1,0,0,1,0,0,6.5, 720x1600,8 , 5 ,1.0,62.0,8990
+Apple,Bionic,6.0, 3.22 ,iOS v16,6 GB RAM, 512 GB inbuilt,3279 mAh ,,1,1,1,0,1,1,0,6.1, 1170x2532,12 , 12 ,0.0,82.0,95999
+iQOO,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,4700 mAh ,120W,1,1,1,0,1,1,1,6.78, 1080x2400,50 , 16 ,,85.0,47990
+Tecno,Helio,8.0, 2.05 ,,8 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,0,6.8, 1080x2460,64 , 32 ,,81.0,17990
+OnePlus,Snapdragon,8.0, 2.2 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,1,0,6.59, 1080x2412,64 , 16 ,1.0,83.0,22999
+Nokia,,,,,,,,,1,0,0,0,0,0,0,,,,,,,1299
+Samsung,Snapdragon,8.0, 3 ,,8 GB RAM, 128 GB inbuilt,5000 mAh ,45W,1,1,1,0,1,1,0,6.8, 1440x3080,108 , 40 ,,,99990
+POCO,Snapdragon,8.0, 3 ,Android v12,8 GB RAM, 128 GB inbuilt,4700 mAh ,120W,1,1,1,0,1,1,1,6.67, 1080x2400,64 , 20 ,0.0,86.0,39999
+Xiaomi,Snapdragon,8.0, 2.84 ,,12 GB RAM, 256 GB inbuilt,5000 mAh ,120W,1,1,1,0,1,1,1,6.67, 1080x2400,108 , 16 ,,88.0,38999
+Vivo,Helio,8.0, 2.3 ,,4 GB RAM, 128 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.51, 720x1600,13 , 8 ,,63.0,12490
+Nokia,,,,,,,,,1,0,0,0,1,0,0,,,,,,,5490
+Samsung,Snapdragon,8.0, 3.2 ,Android v11,6 GB RAM, 128 GB inbuilt,4500 mAh ,25W,1,1,1,0,1,1,0,6.71, 1440x3200,64 , 10 ,1.0,86.0,39990
+Motorola,,,,,,,,,1,0,0,0,0,0,0,,,,,,,1339
+Vivo,Helio,8.0, 2 ,Android v11,8 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.58, 1080x2408,50 , 16 ,1.0,80.0,16685
+Huawei,Kirin,8.0, 3.13 ,Harmony v2.0,8 GB RAM, 128 GB inbuilt,4400 mAh ,66W,1,1,0,0,1,1,1,6.76, 1344x2772,50 , 13 ,1.0,,69990
+Micromax,Unisoc,8.0, 1.8 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.52, 720x1600,13 , 5 ,1.0,66.0,6999
+Asus,Snapdragon,8.0, 3.2 ,Android v12,12 GB RAM, 256 GB inbuilt,6000 mAh ,65W,1,1,1,0,1,1,0,6.78, 1080x2448,50 , 12 ,0.0,86.0,71999
+Realme,Dimensity,8.0, 3 ,,8 GB RAM, 128 GB inbuilt,4500 mAh ,50W,1,1,1,0,1,1,0,6.43, 1080x2400,64 , 16 ,,84.0,26999
+Realme,Dimensity,8.0, 2.2 ,Android v11,4 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,0,6.5, 1080x2400,48 , 16 ,1.0,75.0,16499
+OPPO,Dimensity,8.0, 2.2 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,,1,1,1,0,1,0,0,6.5, 720x1600,13 , 8 ,1.0,74.0,17990
+Xiaomi,Helio,8.0, 2.3 ,Android v10,4 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.53, 720x1600,13 , 5 ,1.0,68.0,8999
+Apple,Bionic,6.0, 2.65 ,,3 GB RAM, 64 GB inbuilt,1821 mAh ,18W,1,1,0,0,1,1,0,4.7, 750x1334,12 , 7 ,,63.0,39900
+Zanco,,,,,,,,,0,0,0,0,0,0,0,,,,,,,2799
+Letv,Tiger,4.0, 1.8 ,,6 GB RAM, 64 GB inbuilt,4000 mAh ,10W,1,1,0,0,1,0,0,6.5, 720x1560,8 , 5 ,,60.0,5999
+OnePlus,Dimensity,8.0,,,8 GB RAM, 128 GB inbuilt,5000 mAh ,120W,1,1,1,0,1,1,0,6.57, 1080x2400,64 , 32 ,,76.0,34999
+Vivo,Dimensity,8.0, 2 ,Android v11,8 GB RAM, 128 GB inbuilt,6000 mAh ,44W,1,1,1,0,1,0,0,6.58, 1080x2408,50 , 8 ,0.0,77.0,16990
+OPPO,Snapdragon,8.0, 2.2 ,Android v13,8 GB RAM, 128 GB inbuilt,4800 mAh ,33W,1,1,1,0,1,1,0,6.58, 1080x2400,50 , 32 ,1.0,84.0,22990
+Vivo,Helio,8.0, 2.2 ,Android v12,8 GB RAM, 256 GB inbuilt,4500 mAh ,44W,1,1,0,0,1,0,0,6.44, 1080x2400,64 , 32 ,1.0,84.0,19990
+Infinix,Tiger,8.0, 2 ,Android v12,6 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.6, 720x1612,50 , 8 ,1.0,74.0,10850
+Realme,Dimensity,8.0, 2.4 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,0,6.6, 1080x2400,48 , 16 ,1.0,75.0,13499
+itel,,,,,,,,,1,0,0,0,0,0,0,,,,,,,958
+itel,Unisoc,8.0, 1.6 ,Android v11.0,3 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.6, 1612x720,8 , 5 ,1.0,61.0,6699
+OPPO,Snapdragon,8.0, 2.4 ,Android v11,8 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,0,6.59, 1080x2412,50 , 16 ,1.0,80.0,17999
+Xiaomi,Dimensity,8.0, 2.2 ,Android v11,4 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,1,6.58, 1080x2408,50 , 5 ,0.0,69.0,13990
+Honor,Snapdragon,8.0, 3 ,,12 GB RAM, 512 GB inbuilt,4600 mAh ,120W,1,1,1,0,1,1,0,6.76, 1344x2772,50 , 13 ,,,94990
+Tecno,Helio,8.0, 2.3 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.6, 1080x2408,50 , 8 ,1.0,72.0,8968
+Infinix,Helio,4.0, 2 ,Android v11,2 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.6, 720x1600,8 , 5 ,1.0,60.0,7320
+Realme,Tiger,8.0, 1.8 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.5, 1600x720,50 , 8 ,1.0,69.0,8999
+Samsung,Helio,8.0, 2.3 ,Android v10,6 GB RAM, 128 GB inbuilt,5000 mAh ,15W,1,1,0,0,1,0,0,6.5, 720x1560,48 , 8 ,1.0,75.0,13999
+Tecno,Helio,8.0, 2 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,1,0,6.8, 1080x2460,64 , 16 ,1.0,79.0,14746
+Xiaomi,Dimensity,8.0, 2.6 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,67W,1,1,1,0,1,1,1,6.6, 1080x2400,64 , 16 ,1.0,83.0,16999
+Xiaomi,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,4520 mAh ,33W,1,1,1,0,1,0,1,6.67, 1080x2400,48 , 20 ,,83.0,25990
+Xiaomi,Snapdragon,8.0, 2.2 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,1,6.43, 1080x2400,48 , 13 ,1.0,78.0,16499
+Xiaomi,Snapdragon,8.0, 2.3 ,Android v11,6 GB RAM, 64 GB inbuilt,5020 mAh ,33W,1,1,0,0,1,0,1,6.67, 1080x2400,108 , 16 ,1.0,81.0,19999
+Xiaomi,Snapdragon,8.0, 2.84 ,,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,1,0,6.67, 2400x1080,64 , 20 ,,80.0,23500
+LG,Snapdragon,8.0, 2.4 ,Android v10,6 GB RAM, 128 GB inbuilt,4300 mAh ,25W,1,1,1,0,1,1,0,6.8, 1080x2460,48 , 16 ,1.0,85.0,54999
+Motorola,Snapdragon,8.0, 2.2 ,Android v10,6 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.5, 1080x2340,64 , 16 ,1.0,80.0,19499
+LG,Snapdragon,8.0, 2.84 ,,8 GB RAM, 128 GB inbuilt,5000 mAh ,,1,1,1,0,1,1,0,6.8, 1080x2460,,,,,79990
+Samsung,Exynos,8.0, 2.7 ,Android v10.0,6 GB RAM, 128 GB inbuilt,4500 mAh ,25W,1,1,0,0,1,1,0,6.7, 1080x2400,12 , 32 ,1.0,83.0,39999
+Samsung,Exynos,8.0, 2.7 ,Android v9.0 (Pie),12 GB RAM, 256 GB inbuilt,4300 mAh ,,1,1,1,0,1,1,1,6.8, 1440x3040,12 , 10 ,1.0,89.0,92999
+Xiaomi,Helio,,,,8 MB RAM, 16 MB inbuilt,1480 mAh ,,1,0,0,0,1,0,0,2.8, 240x320,,,,,1799
+iQOO,Snapdragon,8.0, 3.2 ,,8 GB RAM, 256 GB inbuilt,5000 mAh ,120W,1,1,1,0,1,1,1,6.78, 1080x2400,50 , 16 ,,84.0,32990
+Samsung,Exynos,8.0, 2 ,Android v12,4 GB RAM, 128 GB inbuilt,5000 mAh ,15W,1,1,0,0,1,0,0,6.5, 720x1600,50 , 5 ,1.0,72.0,14499
+Vivo,Dimensity,8.0, 2.2 ,Android v13,4 GB RAM, 128 GB inbuilt,5000 mAh ,15W,1,1,1,0,1,0,0,6.51, 720x1600,13 , 5 ,1.0,70.0,13999
+Vivo,Helio,8.0,,Android v12,2 GB RAM, 32 GB inbuilt,5000 mAh ,10W,1,1,0,0,1,0,0,6.51, 720x1600,8 , 5 ,1.0,,7999
+itel,Unisoc,8.0, 1.6 ,Android v11.0,2 GB RAM, 32 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.6, 1612x720,8 , 5 ,1.0,,5785
+Xiaomi,Dimensity,8.0, 2.2 ,Android v12,4 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,1,6.58, 1080x2400,13 , 5 ,1.0,73.0,12990
+POCO,Dimensity,8.0, 2.5 ,Android v13,8 GB RAM, 128 GB inbuilt,5100 mAh ,120W,1,1,1,0,1,0,1,6.73, 1080x2400,108 , 32 ,1.0,84.0,19990
+OPPO,Dimensity,8.0, 2.4 ,Android v12,12 GB RAM, 256 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,0,6.56, 1080x2400,48 , 8 ,1.0,79.0,23990
+Samsung,Exynos,8.0, 1.8 ,Android v12,6 GB RAM, 64 GB inbuilt,4000 mAh ,15W,1,1,0,0,1,0,0,6.4, 1080x2408,48 , 16 ,1.0,77.0,17999
+Infinix,Helio,8.0, 2.2 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,120W,1,1,0,0,1,0,0,6.91, 1080x2460,108 , 16 ,1.0,80.0,16999
+Honor,Snapdragon,8.0, 2.2 ,Android v11,4 GB RAM, 128 GB inbuilt,5000 mAh ,,1,1,1,0,1,0,0,6.5, 720x1600,13 , 5 ,1.0,68.0,9999
+Infinix,Helio,8.0, 2 ,Android v12,3 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.82, 720x1600,8 , 5 ,1.0,63.0,8299
+Sony,Snapdragon,8.0, 3 ,Android v12,8 GB RAM, 256 GB inbuilt,5000 mAh ,30W,1,1,1,0,1,1,0,6.1, 1080x2520,12 , 12 ,1.0,89.0,82199
+Samsung,,,,,,,,,0,0,0,0,0,0,0,,,,,,,1850
+Nubia,Snapdragon,8.0, 3 ,,8 GB RAM, 128 GB inbuilt,5000 mAh ,80W,1,1,1,0,1,1,0,6.67, 1080x2400,64 , 16 ,,84.0,49990
+Nokia,Unisoc,8.0, 1.6 ,Android v11,4 GB RAM, 64 GB inbuilt,5050 mAh ,18W,1,1,0,0,1,0,0,6.5, 720x1600,50 , 8 ,1.0,71.0,11999
+Xiaomi,Snapdragon,8.0, 2.4 ,Android v12,6 GB RAM, 128 GB inbuilt,4300 mAh ,67W,1,1,1,0,1,1,0,6.55, 1080x2400,108 , 32 ,0.0,82.0,29990
+OPPO,Snapdragon,8.0, 2.84 ,Android v11,8 GB RAM, 256 GB inbuilt,4500 mAh ,33W,1,1,1,0,1,1,0,7.1, 1792x1920,,,,,92249
+Apple,Bionic,6.0, 3.22 ,iOS v15,6 GB RAM, 256 GB inbuilt,4352 mAh ,,1,1,1,0,1,1,0,6.7, 1284x2778,12 , 12 ,0.0,84.0,139900
+Vivo,Helio,8.0, 2 ,Android v11,4 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.51, 720x1600,50 , 8 ,1.0,74.0,14990
+OPPO,Snapdragon,8.0, 2 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,0,6.43, 1080x2400,48 , 16 ,1.0,79.0,15988
+Samsung,Exynos,8.0, 2.3 ,Android v11,4 GB RAM, 64 GB inbuilt,6000 mAh ,15W,1,1,0,0,1,0,0,6.4, 1080x2340,48 , 20 ,1.0,76.0,11725
+OPPO,Helio,8.0, 2.2 ,Android v11,8 GB RAM, 128 GB inbuilt,4310 mAh ,30W,1,1,0,0,1,0,0,6.43, 1080x2400,48 , 16 ,1.0,80.0,17994
+OPPO,Snapdragon,8.0, 2.84 ,Android v11,8 GB RAM, 256 GB inbuilt,4000 mAh ,45W,0,1,0,0,1,0,0,7.4, 1440x3200,,,,86.0,134999
+OnePlus,Snapdragon,8.0, 2 ,Android v10,6 GB RAM, 128 GB inbuilt,4300 mAh ,30W,1,1,1,0,1,1,0,6.49, 1080x2400,64 , 16 ,1.0,81.0,25595
+Gionee,Helio,8.0, 1.99 ,Android v10,6 GB RAM, 128 GB inbuilt,4000 mAh ,,1,0,0,0,1,0,0,6.2, 720x1520,16 , 13 ,1.0,67.0,7499
+POCO,Helio,8.0, 2 ,Android v10.0,6 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,1,6.53, 1080x2340,13 , 8 ,1.0,74.0,10890
+OPPO,Helio,8.0, 2.2 ,Android v10,8 GB RAM, 128 GB inbuilt,4015 mAh ,30W,1,1,0,0,1,0,0,6.43, 1080x2400,48 , 16 ,1.0,83.0,18990
+Motorola,Snapdragon,8.0, 2.2 ,Android v10,6 GB RAM, 128 GB inbuilt,5000 mAh ,20W,1,1,1,0,1,1,0,6.67, 1080x2400,48 , 16 ,1.0,82.0,19990
+Samsung,Exynos,8.0, 2.3 ,Android v9.0 (Pie),4 GB RAM, 128 GB inbuilt,4000 mAh ,15W,1,1,0,0,1,1,0,6.4, 1080x2340,48 , 32 ,1.0,80.0,15990
+Samsung,Exynos,8.0, 2.73 ,Android v9.0 (Pie),12 GB RAM, 256 GB inbuilt,4300 mAh ,45W,1,1,0,0,1,1,0,6.8, 1440x3040,12 , 10 ,1.0,89.0,58999
+Vivo,Helio,8.0, 2 ,Android v9.0 (Pie),4 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.35, 720x1544,13 , 16 ,1.0,71.0,12500
+Vivo,Snapdragon,8.0, 2 ,Android v9.0 (Pie),8 GB RAM, 128 GB inbuilt,4500 mAh ,18W,1,1,0,0,1,0,0,6.38, 1080x2340,48 , 32 ,1.0,82.0,29999
+Vivo,Snapdragon,8.0, 2.7 ,Android v13,8 GB RAM, 256 GB inbuilt,4700 mAh ,80W,1,1,1,1,1,0,0,6.67, 1080x2408,64 , 32 ,1.0,86.0,31990
+Vivo,Dimensity,8.0, 2.4 ,Android v12,8 GB RAM, 128 GB inbuilt,4000 mAh ,33W,1,1,1,0,1,1,0,6.44, 1080x2400,64 , 44 ,1.0,86.0,29999
+Asus,Dimensity,8.0, 3.2 ,,16 GB RAM, 512 GB inbuilt,6000 mAh ,65W,1,1,1,0,1,1,0,6.78, 1080x2448,,,,,107990
+Motorola,Snapdragon,8.0, 2.2 ,,8 GB RAM, 128 GB inbuilt,4020 mAh ,68W,1,1,1,0,1,1,0,6.28, 1080x2400,64 , 32 ,,84.0,31990
+Xiaomi,Dimensity,8.0, 2.85 ,,8 GB RAM, 128 GB inbuilt,5000 mAh ,120W,1,1,1,0,1,1,1,6.67, 1220x2712,108 , 20 ,,87.0,48990
+Huawei,Kirin,8.0, 3.13 ,Hongmeng OS v4.0,8 GB RAM, 256 GB inbuilt,4500 mAh ,66W,1,1,1,0,1,1,0,6.76, 1440x3200,64 , 13 ,0.0,85.0,99990
+Realme,Tiger,8.0, 1.82 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.52, 720x1600,13 , 5 ,1.0,65.0,9499
+Huawei,Snapdragon,8.0, 2.84 ,,8 GB RAM, 512 GB inbuilt,4600 mAh ,66W,1,1,0,0,1,1,1,7.8, 2200x2480,,,,89.0,162990
+iQOO,Snapdragon,8.0, 2.36 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,67W,1,1,1,0,1,0,0,6.62, 1080x2412,50 , 16 ,1.0,80.0,24999
+Apple,Bionic,,,iOS v15,6 GB RAM, 128 GB inbuilt,3285 mAh ,,1,1,0,0,1,1,0,6.06, 1170x2532,50 , 13 ,0.0,72.0,82990
+Infinix,Helio,8.0, 2.05 ,Android v11,8 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,0,6.95, 1080x2460,50 , 16 ,1.0,79.0,15999
+Tecno,Helio,8.0, 1.8 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.52, 720x1600,16 , 8 ,1.0,64.0,8999
+OPPO,Dimensity,8.0, 2.2 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,,1,1,1,0,1,0,0,6.5, 720x1600,13 , 8 ,1.0,73.0,17990
+Vivo,Snapdragon,8.0, 3.2 ,,12 GB RAM, 256 GB inbuilt,4500 mAh ,120W,1,1,1,0,1,1,0,6.78, 1440x3200,50 , 32 ,,,82990
+Xiaomi,Helio,8.0, 2 ,Android v11,6 GB RAM, 128 GB inbuilt,6000 mAh ,18W,1,1,0,0,1,0,1,6.5, 1080x2400,50 , 8 ,1.0,77.0,12999
+Huawei,Snapdragon,8.0, 2.4 ,,8 GB RAM, 128 GB inbuilt,4300 mAh ,66W,1,0,0,0,1,1,0,6.57, 1080x2340,50 , 32 ,,83.0,29990
+Tecno,Unisoc,4.0, 1.3 ,Android v11,1 GB RAM, 16 GB inbuilt,4000 mAh ,,1,0,0,0,1,0,0,6.1, 720x1520,5 , 5 ,1.0,,6999
+Huawei,Snapdragon,8.0, 2.84 ,HarmonyOS v2.0,8 GB RAM, 256 GB inbuilt,4360 mAh ,66W,1,1,0,0,1,1,1,6.6, 1288x2700,50 , 13 ,1.0,,60999
+Xiaomi,Dimensity,8.0, 2.85 ,,8 GB RAM, 128 GB inbuilt,5500 mAh ,67W,1,1,1,0,1,1,1,6.67, 1440x3200,48 , 20 ,,83.0,27990
+Nokia,Unisoc,8.0, 1.6 ,Android v11,2 GB RAM, 16 GB inbuilt,3000 mAh ,,1,1,0,0,1,0,0,5.45, 720x1440,5 , 5 ,1.0,,5249
+Realme,Snapdragon,8.0, 2.2 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,30W,1,1,1,0,1,0,0,6.5, 1080x2400,48 , 16 ,1.0,80.0,14999
+OPPO,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,4500 mAh ,65W,1,1,1,0,1,1,0,6.55, 1080x2400,50 , 32 ,,87.0,44990
+Motorola,Snapdragon,8.0, 3.2 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,20W,1,1,1,0,1,1,0,6.7, 1080x2520,64 , 16 ,1.0,87.0,22490
+OPPO,Snapdragon,8.0, 2.84 ,,12 GB RAM, 256 GB inbuilt,4500 mAh ,65W,1,1,1,0,1,1,0,6.7, 1440x3216,50 , 32 ,,,50990
+POCO,Snapdragon,8.0, 2 ,Android v10,6 GB RAM, 64 GB inbuilt,6000 mAh ,18W,1,1,0,0,1,0,1,6.53, 1080x2340,48 , 8 ,1.0,75.0,11499
+itel,Unisoc,4.0, 1.3 ,Android v10,1 GB RAM, 16 GB inbuilt,4000 mAh ,,1,1,0,0,1,0,0,6.5, 1600x720,8 , 8 ,1.0,,5990
+Vivo,Snapdragon,8.0, 2.4 ,,8 GB RAM, 128 GB inbuilt,4000 mAh ,33W,1,1,1,0,1,0,0,6.44, 1080x2400,64 , 44 ,,84.0,27000
+Xiaomi,Snapdragon,8.0, 2.84 ,,8 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,1,1,6.67, 1080x2400,108 , 20 ,,86.0,29999
+Vivo,Snapdragon,8.0, 2.3 ,Android v10.0,8 GB RAM, 256 GB inbuilt,4500 mAh ,33W,1,1,0,0,1,0,0,6.44, 1080x2400,48 , 32 ,1.0,84.0,27990
+Nokia,,,,,,,,,1,1,0,0,1,0,0,,,,,,,3290
+Samsung,Exynos,8.0, 2.73 ,Android v10.0,8 GB RAM, 128 GB inbuilt,4000 mAh ,25W,1,1,1,0,1,1,0,6.2, 1440x3200,64 , 10 ,1.0,89.0,74999
+Vivo,Snapdragon,8.0, 2 ,Android v9.0 (Pie),4 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.53, 1080x2340,16 , 16 ,1.0,72.0,9990
+OPPO,Snapdragon,8.0, 2.2 ,Android v9.0 (Pie),8 GB RAM, 128 GB inbuilt,4000 mAh ,30W,1,1,0,0,1,0,0,6.4, 1080x2340,64 , 32 ,1.0,82.0,19990
+Realme,Snapdragon,8.0, 2.3 ,Android v9.0 (Pie),4 GB RAM, 64 GB inbuilt,4000 mAh ,20W,1,1,0,0,1,0,0,6.4, 1080x2340,64 , 16 ,1.0,75.0,13279
+Vivo,Helio,8.0, 2 ,Android v9.0 (Pie),3 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.35, 720x1544,13 , 8 ,1.0,68.0,11000
+Apple,,,,,,,,,0,0,0,0,1,0,0,,,,,,,18900
+Xiaomi,Snapdragon,8.0, 2.8 ,Android v8.1 (Oreo),6 GB RAM, 128 GB inbuilt,4000 mAh ,,1,1,0,0,1,0,0,6.18, 1080x2246,12 , 20 ,1.0,78.0,12999
+POCO,Helio,4.0, 2 ,Android v12,3 GB RAM, 32 GB inbuilt,5000 mAh ,10W,1,1,0,0,1,0,0,6.52, 720x1600,8 , 5 ,1.0,61.0,7299
+Karbonn,,,,,,,,,1,0,0,0,0,0,0,,,,,,,995
+iKall,,4.0,,Android v11.0,4 GB RAM, 32 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.5, 720x1600,20 , 13 ,1.0,61.0,7999
+Xiaomi,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,5000 mAh ,67W,1,1,1,0,1,1,1,6.73, 1440x3200,50 , 20 ,,86.0,54990
+Vivo,Dimensity,8.0,,,12 GB RAM, 256 GB inbuilt,5000 mAh ,120W,1,1,1,0,1,1,0,6.67, 1080x2400,50 , 32 ,,77.0,49990
+Honor,Snapdragon,8.0, 3 ,,12 GB RAM, 256 GB inbuilt,4500 mAh ,100W,1,1,1,0,1,1,0,6.78, 1200x2652,200 , 50 ,,,54990
+Apple,Bionic,6.0, 3.22 ,,,,,,1,1,1,0,1,1,0,,,,,,60.0,49990
+Tecno,Dimensity,8.0, 2.4 ,Android v12,4 GB RAM, 128 GB inbuilt,6000 mAh ,18W,1,1,0,0,1,0,0,6.8, 1080x2400,50 , 8 ,1.0,71.0,15499
+Apple,Bionic,6.0,,iOS v16,6 GB RAM, 512 GB inbuilt,4323 mAh ,,1,1,1,0,1,1,0,6.7, 1290x2796,48 , 12 ,0.0,78.0,169900
+Google,Google,8.0,,,8 GB RAM, 128 GB inbuilt,4830 mAh ,67W,1,1,1,0,1,1,0,6.6, 1080x2400,50 , 10.1 ,,75.0,53990
+Vivo,Dimensity,8.0, 3 ,,8 GB RAM, 128 GB inbuilt,6000 mAh ,44W,1,1,1,0,1,0,0,6.58, 1080x2408,50 , 16 ,,80.0,18990
+Motorola,Snapdragon,8.0, 2.2 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,1,0,6.6, 2460x1080,50 , 16 ,1.0,76.0,16999
+Motorola,Snapdragon,8.0, 2.36 ,,8 GB RAM, 128 GB inbuilt,4200 mAh ,67W,1,1,1,0,1,1,0,6.5, 1080x2412,50 , 32 ,,86.0,34999
+Vivo,Snapdragon,8.0, 3 ,,12 GB RAM, 512 GB inbuilt,5000 mAh ,80W,1,1,1,0,1,1,1,7.0, 1440x3080,50 , 16 ,,,82990
+Realme,Snapdragon,8.0, 3 ,,12 GB RAM, 256 GB inbuilt,5000 mAh ,65W,1,1,1,0,1,1,0,6.7, 1440x3216,50 , 32 ,,89.0,46999
+Vivo,Helio,8.0, 2.3 ,Android v12,3 GB RAM, 32 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.51, 720x1600,13 , 8 ,1.0,66.0,8499
+Honor,Snapdragon,8.0, 2.4 ,,6 GB RAM, 128 GB inbuilt,4000 mAh ,22.5W,1,1,0,0,1,0,0,6.7, 1080x2388,64 , 16 ,,76.0,16999
+Samsung,Unisoc,8.0, 1.6 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,15W,1,1,0,0,1,0,0,6.5, 720x1560,48 , 5 ,1.0,69.0,11499
+Samsung,Snapdragon,8.0, 3 ,,8 GB RAM, 256 GB inbuilt,4500 mAh ,45W,1,1,1,0,1,1,0,6.6, 1080x2340,50 , 10 ,,88.0,88999
+Vivo,Snapdragon,8.0, 2.4 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.58, 1080x2408,50 , 16 ,1.0,81.0,15990
+Xiaomi,Dimensity,8.0, 2.5 ,Android v11,8 GB RAM, 128 GB inbuilt,5160 mAh ,67W,1,1,1,0,1,0,1,6.67, 2400x1080,108 , 16 ,1.0,83.0,24990
+OPPO,Snapdragon,8.0, 3 ,,8 GB RAM, 256 GB inbuilt,5000 mAh ,80W,1,1,1,0,1,1,0,6.7, 1440x3216,50 , 32 ,,,79990
+Tecno,,8.0,,Android v11,2 GB RAM, 32 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.51, 720x1600,13 , 8 ,1.0,61.0,6249
+Vivo,Snapdragon,8.0, 2.4 ,Android v12,3 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.51, 720x1600,13 , 8 ,1.0,69.0,12499
+Xiaomi,Helio,8.0, 2 ,Android v11,2 GB RAM, 32 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.53, 720x1600,13 , 5 ,1.0,61.0,6499
+Apple,Bionic,6.0, 3.22 ,iOS v15,6 GB RAM, 1 TB inbuilt,4352 mAh ,,1,1,1,0,1,1,0,6.7, 1284x2778,12 , 12 ,0.0,86.0,179900
+Vivo,Snapdragon,8.0, 2 ,Android v11,3 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.51, 720x1600,13 , 8 ,1.0,68.0,11990
+Vivo,Helio,8.0, 2.05 ,Android v11,8 GB RAM, 128 GB inbuilt,4050 mAh ,44W,1,1,0,0,1,0,0,6.44, 1080x2400,64 , 50 ,0.0,82.0,26990
+Samsung,Helio,8.0, 2 ,Android v11,6 GB RAM, 128 GB inbuilt,6000 mAh ,,1,1,0,0,1,0,0,6.4, 720x1600,48 , 13 ,1.0,76.0,13499
+Xiaomi,Snapdragon,8.0, 3.2 ,,12 GB RAM, 256 GB inbuilt,4800 mAh ,67W,1,1,1,0,1,1,1,6.73, 1440x3200,50 , 20 ,,,75999
+Micromax,Tiger,8.0, 1.8 ,Android v11,3 GB RAM, 32 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.52, 720x1600,8 , 5 ,1.0,60.0,5999
+Samsung,Helio,8.0, 2.3 ,Android v11,3 GB RAM, 32 GB inbuilt,5000 mAh ,15W,1,1,0,0,1,0,0,6.5, 720x1600,13 , 5 ,1.0,67.0,8499
+OPPO,Helio,8.0, 2.3 ,Android v10,4 GB RAM, 128 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.51, 1600x720,13 , 16 ,1.0,71.0,11990
+Xiaomi,Dimensity,8.0, 2.2 ,Android v10,4 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,1,6.43, 1080x2340,48 , 13 ,1.0,77.0,10990
+Xiaomi,Snapdragon,8.0, 2.84 ,Android v10,12 GB RAM, 256 GB inbuilt,5020 mAh ,67W,1,1,1,0,1,1,1,8.01, 1860x2480,,,,,109990
+Realme,Dimensity,8.0, 2.2 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,1,0,6.5, 1080x2400,48 , 16 ,1.0,80.0,16999
+OPPO,Helio,8.0, 2.3 ,Android v10,4 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.51, 1600x720,13 , 16 ,1.0,70.0,12199
+OPPO,Helio,8.0, 2.3 ,Android v10,4 GB RAM, 128 GB inbuilt,4230 mAh ,,1,1,0,0,1,0,0,6.52, 720x1600,13 , 8 ,1.0,72.0,11490
+itel,,4.0,,Android v9.0 (Pie),1 GB RAM, 16 GB inbuilt,4000 mAh ,,1,1,0,0,1,0,0,6.0, 720x1600,8 , 5 ,1.0,,5490
+Xiaomi,Snapdragon,8.0, 2 ,Android v10,4 GB RAM, 64 GB inbuilt,6000 mAh ,18W,1,1,0,0,1,0,1,6.53, 1080x2340,48 , 8 ,1.0,74.0,11499
+Samsung,Exynos,8.0, 2.9 ,,8 GB RAM, 128 GB inbuilt,4800 mAh ,25W,1,1,1,0,1,1,0,6.7, 1080x2400,64 , 10 ,,88.0,59450
+POCO,Snapdragon,8.0, 2.3 ,Android v10.0,4 GB RAM, 64 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,1,6.67, 1080x2400,48 , 16 ,1.0,76.0,12799
+Samsung,Exynos,8.0, 2.73 ,Android v10,8 GB RAM, 128 GB inbuilt,4500 mAh ,25W,1,1,0,0,1,1,0,6.7, 1440x3200,64 , 10 ,1.0,88.0,83000
+Realme,Snapdragon,8.0, 2.3 ,Android v10,6 GB RAM, 64 GB inbuilt,4300 mAh ,30W,1,1,0,0,1,0,0,6.6, 1080x2400,64 , 16 ,1.0,80.0,14490
+Huawei,Kirin,8.0, 2.86 ,Android v10.0,8 GB RAM, 256 GB inbuilt,4200 mAh ,40W,1,1,1,0,1,1,0,6.58, 1200x2640,50 , 32 ,1.0,,82990
+Vivo,Snapdragon,8.0, 2 ,Android v9.0 (Pie),3 GB RAM, 32 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.35, 720x1544,13 , 8 ,1.0,64.0,9490
+Vivo,Snapdragon,8.0, 2 ,Android v9.0 (Pie),8 GB RAM, 128 GB inbuilt,3700 mAh ,,1,1,0,0,1,0,0,6.39, 1080x2316,48 , 32 ,1.0,78.0,25000
+Vivo,Snapdragon,8.0, 1.95 ,Android v8.1 (Oreo),4 GB RAM, 64 GB inbuilt,4030 mAh ,,1,1,0,0,1,0,0,6.22, 1520x720,13 , 20 ,1.0,65.0,15000
+Vivo,Helio,8.0, 2 ,Android v8.1 (Oreo),4 GB RAM, 128 GB inbuilt,3315 mAh ,,1,1,0,0,1,0,0,6.3, 1080x2280,16 , 25 ,1.0,70.0,20990
+Samsung,Exynos,8.0, 2.8 ,Android v8.0 (Oreo),6 GB RAM, 128 GB inbuilt,3500 mAh ,,1,1,0,0,1,1,0,6.2, 1440x2960,12 , 8 ,1.0,78.0,34999
+Realme,Snapdragon,8.0, 3 ,,8 GB RAM, 128 GB inbuilt,5000 mAh ,120W,1,1,1,1,1,0,0,6.73, 1080x2400,50 , 16 ,,80.0,29999
+Vivo,Dimensity,8.0, 2 ,Android v13,4 GB RAM, 128 GB inbuilt,6000 mAh ,15W,1,1,1,0,1,0,0,6.51, 720x1600,13 , 5 ,0.0,67.0,11999
+Samsung,Helio,8.0, 2.3 ,Android v12,4 GB RAM, 128 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.5, 720x1600,50 , 5 ,1.0,72.0,12999
+Leitz,Snapdragon,8.0, 3 ,Android v12,12 GB RAM, 256 GB inbuilt,5000 mAh ,,1,1,1,0,1,1,0,6.6, 1260x2730,47.2 , 12.6 ,1.0,89.0,124990
+Xiaomi,Dimensity,8.0, 3.1 ,,8 GB RAM, 128 GB inbuilt,5080 mAh ,120W,1,1,1,1,1,0,1,6.67, 1080x2460,50 , 32 ,,85.0,28999
+Infinix,Helio,8.0, 2.05 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.78, 1080x2460,50 , 8 ,1.0,77.0,12999
+Realme,Snapdragon,8.0, 3.2 ,,8 GB RAM, 256 GB inbuilt,5000 mAh ,80W,1,1,1,0,1,0,0,6.62, 1080x2400,64 , 16 ,,82.0,28499
+Apple,Bionic,6.0, 3.22 ,iOS v16,6 GB RAM, 512 GB inbuilt,4325 mAh ,,1,1,1,0,1,1,0,6.7, 1284x2778,12 , 12 ,0.0,83.0,104999
+Apple,Bionic,6.0,,iOS v16,6 GB RAM, 1 TB inbuilt,3200 mAh ,,1,1,1,0,1,1,0,6.1, 1179x2556,48 , 12 ,0.0,77.0,172999
+Xiaomi,Snapdragon,8.0, 2 ,Android v13,6 GB RAM, 128 GB inbuilt,5100 mAh ,18W,1,1,1,0,1,0,1,6.73, 1080x2408,64 , 16 ,1.0,79.0,17990
+Xiaomi,Helio,8.0, 2.2 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,1,6.58, 1080x2400,50 , 8 ,1.0,76.0,13774
+itel,,,,,,,,,1,1,0,0,1,0,0,,,,,,,2239
+Nokia,Unisoc,8.0, 1.6 ,Android v11,4 GB RAM, 64 GB inbuilt,5050 mAh ,,1,1,0,0,1,0,0,6.52, 720x1600,13 , 5 ,1.0,64.0,8999
+OnePlus,Dimensity,8.0, 2.4 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,1,0,6.56, 720x1612,48 , 16 ,1.0,75.0,18990
+Tecno,Helio,8.0, 2 ,,6 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,1,0,6.8, 1080x2400,48 , 32 ,,77.0,14999
+Realme,Tiger,8.0, 1.82 ,Android v11,3 GB RAM, 32 GB inbuilt,5000 mAh ,10W,1,1,0,0,1,0,0,6.5, 720x1600,8 , 5 ,1.0,61.0,7999
+Xiaomi,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,5000 mAh ,120W,1,1,1,0,1,1,1,6.67, 1220x2712,108 , 20 ,,85.0,39999
+OPPO,Helio,8.0, 2.3 ,Android v12,3 GB RAM, 64 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,0,6.56, 720x1612,13 , 8 ,1.0,67.0,11990
+Infinix,Helio,8.0, 2 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,0,6.7, 2400x1080,50 , 16 ,1.0,77.0,12999
+Samsung,,8.0,,Android v12,8 GB RAM, 128 GB inbuilt,4500 mAh ,,1,1,1,1,1,1,0,6.5, 1080x2400,64 , 32 ,0.0,77.0,54999
+Samsung,,8.0,,Android v12,6 GB RAM, 128 GB inbuilt,6000 mAh ,,1,1,1,0,1,0,0,6.7, 1080x2400,64 , 32 ,1.0,72.0,24990
+Vivo,Dimensity,8.0, 3.05 ,Android v12,12 GB RAM, 256 GB inbuilt,4500 mAh ,80W,1,1,1,0,1,0,0,6.78, 1080x2400,50 , 32 ,0.0,88.0,59999
+POCO,Snapdragon,8.0,,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,,1,1,1,0,1,0,0,6.67, 1080x2400,64 , 32 ,1.0,72.0,19999
+Infinix,Helio,8.0, 2.05 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,0,6.7, 1080x2400,50 , 16 ,1.0,79.0,16999
+Samsung,Exynos,8.0,,Android v13,4 GB RAM, 64 GB inbuilt,6000 mAh ,,1,1,0,0,1,0,0,6.5, 720x1600,48 , 8 ,1.0,60.0,14999
+Vivo,Snapdragon,8.0,,Android v12,8 GB RAM, 128 GB inbuilt,4500 mAh ,67W,1,1,1,0,1,0,0,6.44, 1080x2408,50 , 16 ,1.0,76.0,29990
+Xiaomi,Dimensity,8.0, 2.2 ,Android v11,4 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,1,6.58, 1080x2408,50 , 5 ,0.0,69.0,13990
+Xiaomi,Helio,8.0, 2.05 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,67W,1,1,0,0,1,0,1,6.67, 1080x2400,108 , 16 ,1.0,81.0,17999
+Realme,Tiger,8.0, 1.82 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.6, 1080x2408,50 , 8 ,1.0,73.0,11399
+Eunity,,,,,32 MB RAM, 32 MB inbuilt,1000 mAh ,,1,0,0,0,0,0,0,1.8, 260x240,0.3 ,,,,599
+Vivo,Dimensity,8.0, 2.2 ,,8 GB RAM, 128 GB inbuilt,6000 mAh ,18W,1,1,1,0,1,0,0,6.58, 1080x2408,50 , 8 ,,79.0,19990
+Vivo,Snapdragon,8.0, 2.4 ,Android v11,4 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.51, 1600x720,50 , 8 ,1.0,74.0,15499
+Gionee,Tiger,4.0, 2 ,Android v10,3 GB RAM, 32 GB inbuilt,4800 mAh ,,1,1,0,0,1,0,0,6.8, 720x1600,13 , 5 ,1.0,,6999
+Xiaomi,Snapdragon,8.0, 2.3 ,Android v10.0,4 GB RAM, 128 GB inbuilt,5020 mAh ,18W,1,1,0,0,1,0,1,6.67, 1080x2400,48 , 16 ,1.0,77.0,12499
+Apple,Bionic,6.0, 3.22 ,iOS v15,4 GB RAM, 512 GB inbuilt,3240 mAh ,,1,1,1,0,1,1,0,6.1, 1170x2532,12 , 12 ,0.0,80.0,91999
+Infinix,Helio,8.0, 2 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.78, 1080x2480,50 , 8 ,1.0,71.0,9690
+Realme,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,4500 mAh ,65W,1,1,1,0,1,1,0,6.55, 1080x2400,50 , 32 ,,85.0,32990
+Xiaomi,Snapdragon,8.0, 3 ,,8 GB RAM, 128 GB inbuilt,4500 mAh ,67W,1,1,1,0,1,1,1,6.28, 1080x2400,50 , 32 ,,87.0,42990
+CAT,Snapdragon,4.0, 1.3 ,,2 GB RAM, 16 GB inbuilt,2000 mAh ,,0,1,0,0,1,0,0,4.0, 480x640,,,,,14999
+Xiaomi,Snapdragon,8.0, 2.3 ,Android v11,8 GB RAM, 128 GB inbuilt,4250 mAh ,33W,1,1,0,0,1,0,1,6.55, 1080x2400,64 , 16 ,1.0,82.0,18699
+DIZO,Unisoc,,,,32 MB RAM, 32 MB inbuilt,1900 mAh ,,1,0,0,0,0,0,0,2.8, 240x320,0.3 ,,1.0,,1749
+Realme,Dimensity,8.0, 2.2 ,Android v11,4 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,0,6.5, 1080x2400,48 , 16 ,1.0,76.0,10990
+Xiaomi,Snapdragon,8.0, 2.84 ,,8 GB RAM, 128 GB inbuilt,4520 mAh ,33W,1,1,1,0,1,0,1,6.67, 1080x2400,108 , 20 ,,85.0,30990
+Lenovo,Snapdragon,8.0, 2.84 ,,16 GB RAM, 512 GB inbuilt,5000 mAh ,120W,1,1,1,0,1,1,0,6.5, 1080x2400,64 , 20 ,,89.0,59999
+Samsung,Exynos,8.0, 2.73 ,Android v11,6 GB RAM, 128 GB inbuilt,7000 mAh ,,1,1,0,0,1,1,0,6.71, 1080x2400,64 , 32 ,1.0,83.0,23999
+Realme,Dimensity,8.0, 2 ,,4 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,0,6.5, 720x1600,13 , 8 ,,69.0,9999
+Nokia,Unisoc,,,,64 MB RAM, 128 MB inbuilt,1150 mAh ,,1,1,0,0,0,0,0,2.4, 240x320,,,1.0,,3099
+Apple,Bionic,6.0, 3.1 ,,6 GB RAM, 256 GB inbuilt,,,1,1,1,0,1,1,0,,,,,,80.0,119900
+Xiaomi,Helio,8.0, 2 ,Android v10,4 GB RAM, 128 GB inbuilt,5000 mAh ,10W,1,1,0,0,1,0,0,6.53, 720x1600,13 , 5 ,1.0,67.0,9299
+Realme,Helio,8.0, 2.05 ,Android v10,6 GB RAM, 64 GB inbuilt,4300 mAh ,30W,1,1,0,0,1,0,0,6.5, 1080x2400,64 , 16 ,1.0,77.0,12989
+Samsung,,4.0, 1.5 ,Android v10,1 GB RAM, 16 GB inbuilt,3000 mAh ,,1,1,0,0,1,0,0,5.3, 720x1480,8 , 5 ,1.0,,4999
+LG,,,,,,,,,0,0,0,0,1,0,0,,,,,,,11999
+OPPO,Snapdragon,8.0, 2.4 ,,8 GB RAM, 128 GB inbuilt,4300 mAh ,65W,1,1,1,0,1,0,0,6.43, 1080x2400,64 , 32 ,,83.0,29990
+OPPO,Helio,8.0, 2.3 ,Android v9.0 (Pie),6 GB RAM, 128 GB inbuilt,4230 mAh ,,1,1,0,0,1,0,0,6.5, 720x1600,12 , 8 ,1.0,72.0,12490
+Sony,Snapdragon,8.0, 2 ,Android v10.0,4 GB RAM, 128 GB inbuilt,3600 mAh ,18W,1,1,0,0,1,1,0,6.0, 1080x2520,12 , 8 ,1.0,75.0,27999
+Vivo,Helio,8.0, 2 ,Android v8.1 (Oreo),2 GB RAM, 32 GB inbuilt,4030 mAh ,,1,1,0,0,1,0,0,6.22, 720x1520,13 , 5 ,1.0,,8199
+Huawei,Kirin,8.0, 2.2 ,Android v10,8 GB RAM, 128 GB inbuilt,4200 mAh ,40W,1,1,0,0,1,0,0,6.4, 1080x2340,48 , 16 ,1.0,81.0,21990
+Vivo,Helio,8.0, 2 ,Android v9.0 (Pie),4 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.53, 1080x2340,16 , 16 ,1.0,73.0,20000
+Vivo,Snapdragon,8.0, 2 ,Android v9.0 (Pie),6 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.53, 1080x2340,16 , 16 ,1.0,74.0,11990
+Xiaomi,Helio,8.0, 2 ,Android v10.0,4 GB RAM, 64 GB inbuilt,5020 mAh ,22.5W,1,1,0,0,1,0,1,6.53, 1080x2340,48 , 13 ,1.0,75.0,11989
+Xiaomi,Snapdragon,8.0, 2 ,Android v9.0 (Pie),4 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,1,6.22, 720x1520,12 , 8 ,1.0,66.0,11490
+Motorola,Helio,8.0, 2 ,Android v9.0 (Pie),4 GB RAM, 64 GB inbuilt,4000 mAh ,10W,1,1,0,0,1,0,0,6.2, 720x1520,13 , 8 ,1.0,68.0,11490
+Google,Snapdragon,8.0, 2 ,,4 GB RAM, 64 GB inbuilt,3700 mAh ,18W,0,1,0,0,1,1,0,6.0, 1080x2160,12.2 , 8 ,,67.0,15999
+Samsung,Exynos,8.0, 2.2 ,Android v9.0 (Pie),4 GB RAM, 64 GB inbuilt,3100 mAh ,15W,1,1,0,0,1,0,0,5.9, 1080x2340,16 , 25 ,1.0,69.0,17990
+Samsung,Exynos,8.0, 2.7 ,Android v9.0 (Pie),8 GB RAM, 256 GB inbuilt,4500 mAh ,25W,0,1,1,0,1,1,0,6.7, 1440x3040,16 , 10 ,1.0,86.0,78990
+Huawei,Kirin,8.0, 2.36 ,Android v8.0 (Oreo),4 GB RAM, 64 GB inbuilt,3000 mAh ,,1,1,0,0,1,0,0,5.84, 1080x2280,13 , 16 ,1.0,66.0,10949
+Xiaomi,Snapdragon,8.0, 2 ,Android v6.0 (Marshmallow),4 GB RAM, 64 GB inbuilt,4100 mAh ,,1,1,0,0,1,0,0,5.5, 1080x1920,13 , 5 ,1.0,65.0,10300
+BlackZone,,1.0,,,48 MB RAM, 48 MB inbuilt,2500 mAh ,,1,1,0,0,0,0,0,1.8, 480x640,2 ,,1.0,,1899
+Doogee,Dimensity,8.0, 2.6 ,Android v12,12 GB RAM, 256 GB inbuilt,22000 mAh ,33W,1,1,1,0,1,0,0,6.58, 1080x2408,108 , 32 ,1.0,88.0,45999
+Huawei,,8.0,,EMUI v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,22.5W,1,1,0,0,1,0,0,6.52, 720x1600,50 , 5 ,1.0,63.0,21990
+iQOO,Snapdragon,8.0,,Android v13,8 GB RAM, 128 GB inbuilt,5000 mAh ,45W,1,1,1,0,1,0,0,6.67, 1080x2412,64 , 16 ,1.0,76.0,19990
+Vivo,Snapdragon,8.0, 2.4 ,Android v13,8 GB RAM, 256 GB inbuilt,5000 mAh ,80W,1,1,1,0,1,0,0,6.67, 1080x2400,64 , 32 ,1.0,84.0,32990
+POCO,Helio,8.0, 2.2 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,1,6.58, 1080x2400,50 , 8 ,1.0,77.0,14499
+Nokia,Snapdragon,8.0, 2.2 ,Android v12,6 GB RAM, 128 GB inbuilt,4200 mAh ,33W,1,1,1,0,1,1,0,6.43, 1080x2400,50 , 16 ,1.0,85.0,41990
+Tecno,Helio,8.0, 2 ,Android v12,6 GB RAM, 128 GB inbuilt,7000 mAh ,,1,1,0,0,1,0,0,6.82, 720x1600,16 , 8 ,1.0,67.0,13990
+Nokia,,,,,4 MB RAM, 4 MB inbuilt,1000 mAh ,,1,0,0,0,0,0,0,1.77, 120x160,,,,,1599
+Nokia,,,,,,,,,1,0,0,0,0,0,0,,,,,,,4799
+Vivo,Helio,8.0, 2.3 ,Android v12,3 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.51, 720x1600,13 , 8 ,1.0,67.0,10490
+Huawei,Snapdragon,8.0, 2.4 ,,8 GB RAM, 128 GB inbuilt,4000 mAh ,66W,1,0,0,0,1,0,0,6.67, 1080x2400,50 , 60 ,,82.0,29990
+Huawei,Snapdragon,8.0, 2.4 ,EMUI v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,40W,1,1,0,0,1,1,0,6.7, 1080x2388,50 , 8 ,1.0,82.0,22990
+Samsung,Dimensity,8.0, 3 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,,1,1,1,0,1,0,0,6.7, 1080x2400,48 , 16 ,0.0,80.0,47990
+Infinix,Helio,8.0, 2.05 ,Android v12,8 GB RAM, 128 GB inbuilt,4500 mAh ,120W,1,1,0,0,1,0,0,6.7, 1080x2400,108 , 16 ,1.0,84.0,19999
+OnePlus,Snapdragon,8.0, 2.36 ,,8 GB RAM, 128 GB inbuilt,4500 mAh ,80W,1,1,1,0,1,1,0,6.43, 1080x2412,50 , 32 ,,83.0,29999
+Realme,Tiger,8.0, 1.82 ,Android v11,4 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.6, 1080x2408,50 , 8 ,1.0,74.0,11879
+OnePlus,Dimensity,8.0, 2.85 ,,8 GB RAM, 128 GB inbuilt,4500 mAh ,150W,1,1,1,0,1,1,0,6.7, 1080x2412,50 , 16 ,,84.0,28990
+iQOO,Snapdragon,8.0, 2.9 ,,12 GB RAM, 256 GB inbuilt,4350 mAh ,120W,1,1,1,0,1,0,0,6.56, 1080x2376,48 , 16 ,,85.0,39990
+Xiaomi,Dimensity,8.0, 2 ,Android v12,6 GB RAM, 64 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,0,1,6.52, 1080x2400,64 , 16 ,1.0,78.0,15999
+OPPO,Snapdragon,8.0, 2.2 ,Android v11,8 GB RAM, 256 GB inbuilt,4500 mAh ,33W,1,1,1,0,1,0,0,6.43, 1080x2400,48 , 16 ,1.0,82.0,22990
+Royole,Snapdragon,8.0, 2.84 ,,8 GB RAM, 128 GB inbuilt,3360 mAh ,,1,1,1,0,1,0,0,7.2, 1440x1920,,,,87.0,149999
+Tecno,Helio,8.0, 2 ,,4 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,1,0,6.8, 1080x2460,48 , 16 ,,75.0,11499
+Tecno,Helio,8.0, 2.05 ,,8 GB RAM, 256 GB inbuilt,5000 mAh ,44W,1,1,0,0,1,0,0,6.7, 1080x2400,50 , 48 ,,84.0,22999
+Tecno,Helio,8.0, 2.3 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.6, 720x1600,50 , 8 ,1.0,70.0,7999
+Realme,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,5000 mAh ,65W,1,1,1,0,1,1,0,6.62, 2400x1080,64 , 16 ,,82.0,31999
+Sony,Snapdragon,8.0, 2 ,Android v11,6 GB RAM, 64 GB inbuilt,4500 mAh ,30W,0,1,1,0,1,1,0,6.0, 1080x2520,12 , 8 ,1.0,78.0,30990
+Realme,Helio,8.0, 2.3 ,Android v11,3 GB RAM, 32 GB inbuilt,6000 mAh ,,1,1,0,0,1,0,0,6.52, 720x1600,13 , 5 ,1.0,64.0,7999
+Tecno,Helio,8.0, 2 ,Android v11,4 GB RAM, 64 GB inbuilt,7000 mAh ,18W,1,1,0,0,1,0,0,6.95, 1080x2460,48 , 8 ,1.0,74.0,10999
+POCO,Dimensity,8.0, 2.2 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,67W,1,1,1,0,1,0,0,6.67, 1080x2400,50 , 16 ,1.0,79.0,14990
+Motorola,Snapdragon,8.0, 2.3 ,Android v11,4 GB RAM, 64 GB inbuilt,6000 mAh ,20W,1,1,0,0,1,0,0,6.78, 1080x2460,64 , 16 ,1.0,77.0,14499
+OnePlus,Snapdragon,8.0, 2.84 ,Android v11,8 GB RAM, 128 GB inbuilt,4500 mAh ,65W,1,1,1,0,1,1,0,6.55, 1080x2400,108 , 16 ,0.0,86.0,44999
+Realme,Helio,8.0, 2 ,Android v11,8 GB RAM, 128 GB inbuilt,5000 mAh ,30W,1,1,0,0,1,0,0,6.4, 1080x2400,64 , 16 ,1.0,83.0,17999
+Realme,Dimensity,8.0, 2.4 ,Android v10,8 GB RAM, 128 GB inbuilt,5000 mAh ,30W,1,1,1,0,1,0,0,6.5, 1080x2400,48 , 16 ,1.0,83.0,19999
+Itel,Unisoc,4.0, 1.4 ,,1 GB RAM, 8 GB inbuilt,2400 mAh ,,1,0,0,0,1,0,0,5.0, 854x480,5 , 2 ,,,3999
+Samsung,Exynos,8.0, 2.9 ,,12 GB RAM, 128 GB inbuilt,5000 mAh ,25W,1,1,1,0,1,1,0,6.8, 1440x3200,108 , 40 ,,,101999
+OPPO,Dimensity,8.0, 2.6 ,,8 GB RAM, 128 GB inbuilt,4350 mAh ,65W,1,1,1,0,1,0,0,6.53, 1080x2400,64 , 32 ,,84.0,38700
+OnePlus,Snapdragon,8.0, 2 ,Android v10,4 GB RAM, 64 GB inbuilt,4500 mAh ,65W,1,1,0,0,1,0,0,6.3, 1080x2400,48 , 13 ,1.0,73.0,19999
+Samsung,Exynos,8.0, 2 ,Android v11,4 GB RAM, 64 GB inbuilt,6000 mAh ,15W,1,1,0,0,1,0,0,6.5, 720x1600,48 , 8 ,1.0,72.0,10999
+OnePlus,Snapdragon,8.0, 1.8 ,Android v10,4 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.52, 720x1600,13 , 8 ,1.0,68.0,16990
+Apple,Bionic,6.0, 3.1 ,,4 GB RAM, 256 GB inbuilt,,,1,1,1,0,1,1,0,,,,,,75.0,55999
+Apple,Bionic,6.0, 3.1 ,,4 GB RAM, 256 GB inbuilt,,,1,1,1,0,1,1,0,,,,,,76.0,67999
+OPPO,Helio,8.0, 2.3 ,Android v10.0,3 GB RAM, 32 GB inbuilt,4230 mAh ,,1,1,0,0,1,0,0,6.52, 720x1600,13 , 5 ,1.0,66.0,9999
+Xiaomi,Snapdragon,8.0, 2.3 ,Android v10.0,4 GB RAM, 128 GB inbuilt,5020 mAh ,18W,1,1,0,0,1,0,1,6.67, 1080x2400,48 , 16 ,1.0,77.0,14439
+Nokia,,,,,,,1020 mAh ,,1,0,0,0,0,0,0,2.4, 240x320,0.3 ,,1.0,,2499
+OPPO,Helio,8.0, 1.8 ,Android v9.0 (Pie),3 GB RAM, 32 GB inbuilt,4230 mAh ,,1,1,0,0,1,0,0,6.22, 1520x720,13 , 5 ,1.0,64.0,9990
+Realme,Snapdragon,8.0, 2.84 ,Android v10,8 GB RAM, 128 GB inbuilt,4200 mAh ,65W,1,1,1,0,1,1,0,6.44, 1080x2400,64 , 32 ,0.0,85.0,24999
+Samsung,Exynos,8.0, 2.73 ,Android v10,8 GB RAM, 128 GB inbuilt,4500 mAh ,25W,1,1,1,0,1,1,0,6.7, 1440x3200,64 , 10 ,1.0,,85990
+Xiaomi,Snapdragon,8.0, 2.8 ,Android v9.0 (Pie),8 GB RAM, 256 GB inbuilt,4000 mAh ,27W,1,1,0,0,1,1,0,6.39, 1080x2340,48 , 20 ,0.0,88.0,480000
+Xiaomi,Helio,8.0, 2.05 ,Android v9.0 (Pie),6 GB RAM, 64 GB inbuilt,4500 mAh ,18W,1,1,0,0,1,0,1,6.53, 1080x2340,64 , 20 ,1.0,78.0,16999
+Realme,Helio,8.0, 2.1 ,Android v8.1 (Oreo),2 GB RAM, 16 GB inbuilt,4000 mAh ,,1,1,0,0,1,0,0,6.2, 720x1520,13 , 8 ,1.0,,8999
+OPPO,Helio,8.0, 2.5 ,Android v7.1 (Nougat),3 GB RAM, 32 GB inbuilt,3200 mAh ,,1,1,0,0,1,0,0,6.0, 1080x2160,13 , 16 ,1.0,62.0,15990
+Nokia,,,,,,,,,1,1,0,0,1,0,0,,,,,,,3999
+Lyf,Snapdragon,8.0, 1.5 ,Android v5.1.1 (Lollipop),3 GB RAM, 32 GB inbuilt,2500 mAh ,,1,1,0,0,1,0,0,5.0, 1080x1920,13 , 13 ,1.0,,3890
+Samsung,,,,,,,,,0,0,0,0,0,0,0,,,,,,,1685
+Apple,Bionic,6.0,,iOS v16,8 GB RAM, 128 GB inbuilt,4532 mAh ,,1,1,1,1,1,1,0,6.71, 1284x2778,12 , 12 ,0.0,75.0,84990
+Vivo,Dimensity,8.0, 2.2 ,Android v12,4 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,1,0,6.58, 1080x2408,50 , 8 ,1.0,78.0,21999
+iKall,,,,,,,,,1,1,0,0,0,0,0,,,,,,,2099
+Lava,Helio,8.0, 2.3 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.5, 720x1600,13 , 8 ,1.0,66.0,8999
+Eunity,,,,,16 MB RAM, 16 MB inbuilt,1000 mAh ,,1,0,0,0,0,0,0,1.8, 280x240,0.3 ,,,,649
+Tecno,Dimensity,8.0, 2.2 ,,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,1,0,6.83, 1080x2460,50 , 16 ,,79.0,20999
+OPPO,Dimensity,8.0, 3 ,,8 GB RAM, 128 GB inbuilt,4500 mAh ,80W,1,1,1,0,1,1,0,6.43, 1080x2400,50 , 32 ,,84.0,32990
+Motorola,Helio,8.0, 2.3 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,10W,1,1,0,0,1,0,0,6.5, 720x1600,16 , 8 ,1.0,70.0,9022
+Xiaomi,Helio,4.0, 2 ,Android v12,3 GB RAM, 32 GB inbuilt,5000 mAh ,10W,1,1,0,0,1,0,0,6.52, 720x1600,8 , 5 ,1.0,61.0,8399
+Infinix,Helio,8.0, 2 ,Android v12,3 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.6, 720x1612,13 , 8 ,1.0,64.0,9999
+Tecno,Helio,8.0, 2.3 ,Android v12,3 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.6, 720x1600,13 , 8 ,1.0,63.0,8390
+ZTE,Snapdragon,8.0, 3.2 ,Android v12,6 GB RAM, 128 GB inbuilt,4200 mAh ,55W,1,1,1,0,1,1,0,6.9, 1080x2460,50 , 16 ,1.0,82.0,19999
+Honor,Helio,8.0, 2 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,10W,1,1,0,0,1,0,0,6.5, 720x1600,50 , 5 ,1.0,71.0,13999
+Xiaomi,Snapdragon,8.0, 2.4 ,,8 GB RAM, 128 GB inbuilt,4500 mAh ,67W,1,1,1,0,1,1,1,6.55, 1080x2400,50 , 32 ,,85.0,29999
+TCL,Helio,8.0, 2 ,,3 GB RAM, 32 GB inbuilt,3000 mAh ,10W,1,1,0,0,1,0,0,6.0, 720x1440,13 , 5 ,1.0,60.0,8990
+Samsung,Snapdragon,8.0, 3.2 ,Android v12,12 GB RAM, 1 TB inbuilt,4400 mAh ,25W,1,1,1,0,1,1,0,7.6, 1812x2176,,,,,163980
+Nothing,Snapdragon,8.0, 2.5 ,,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,1,0,1,1,0,6.55, 1080x2400,50 , 16 ,,80.0,24990
+Motorola,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,4450 mAh ,125W,1,1,1,0,1,1,0,6.67, 1080x2340,200 , 60 ,,,59990
+OnePlus,Snapdragon,8.0, 3.2 ,,12 GB RAM, 256 GB inbuilt,4800 mAh ,150W,1,1,1,0,1,1,0,6.7, 1080x2412,50 , 16 ,,86.0,47990
+Realme,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,5000 mAh ,100W,1,1,1,0,1,1,0,6.7, 1080x2412,50 , 16 ,,86.0,40990
+Samsung,,8.0,,Android v12,8 GB RAM, 128 GB inbuilt,6000 mAh ,,1,1,0,0,1,1,0,6.5, 1080x2400,64 , 32 ,1.0,74.0,22999
+Samsung,,8.0,,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.5, 720x1560,48 , 5 ,1.0,63.0,12990
+Infinix,Helio,8.0, 2 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,0,6.7, 2400x1080,50 , 16 ,1.0,79.0,14999
+POCO,Dimensity,8.0, 3 ,Android v12,8 GB RAM, 128 GB inbuilt,4500 mAh ,150W,1,1,1,0,1,1,1,6.67, 1080x2412,64 , 20 ,0.0,86.0,42999
+iQOO,Snapdragon,8.0, 2.2 ,Android v12,4 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,1,0,1,0,0,6.58, 1080x2412,50 , 16 ,1.0,78.0,14999
+Vivo,Snapdragon,8.0, 2.4 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,44W,1,1,0,0,1,0,0,6.44, 1080x2400,50 , 16 ,1.0,83.0,22990
+Vivo,Snapdragon,8.0, 3 ,Android v12,12 GB RAM, 512 GB inbuilt,4600 mAh ,66W,1,1,1,0,1,1,0,8.03, 1916x2160,,,,,118990
+OPPO,Snapdragon,8.0, 2.84 ,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,80W,1,1,1,0,1,0,0,6.62, 1080x2400,50 , 16 ,0.0,81.0,29990
+Tecno,Unisoc,8.0, 2 ,Android v11,3 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.6, 720x1612,13 , 8 ,1.0,62.0,7399
+iQOO,Snapdragon,8.0, 2.2 ,Android v12,8 GB RAM, 128 GB inbuilt,4200 mAh ,55W,1,1,1,0,1,0,0,6.67, 1080x2400,50 , 16 ,0.0,80.0,17999
+Infinix,Helio,8.0, 2 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,33W,1,1,0,0,1,0,0,6.7, 1080x2400,50 , 16 ,1.0,77.0,12799
+Xiaomi,Dimensity,8.0, 2.5 ,Android v11,8 GB RAM, 128 GB inbuilt,4500 mAh ,120W,1,1,1,0,1,0,1,6.67, 2400x1080,108 , 16 ,1.0,86.0,26999
+Samsung,Dimensity,8.0, 2.2 ,Android v11,8 GB RAM, 128 GB inbuilt,5000 mAh ,15W,1,1,1,0,1,0,0,6.6, 1080x2408,64 , 8 ,1.0,82.0,22999
+Apple,Bionic,6.0, 3.22 ,iOS v15.0,6 GB RAM, 1 TB inbuilt,3095 mAh ,,1,1,1,0,1,1,0,6.1, 1170x2532,12 , 12 ,0.0,84.0,147900
+Nubia,Snapdragon,8.0, 2.9 ,,8 GB RAM, 128 GB inbuilt,5050 mAh ,30W,1,1,1,0,1,1,0,6.8, 1080x2400,64 , 8 ,,84.0,44999
+Micromax,Unisoc,8.0, 1.8 ,Android v11,6 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.52, 720x1600,13 , 5 ,1.0,68.0,7790
+Nokia,Snapdragon,8.0, 3.2 ,Harmony v2.0,6 GB RAM, 128 GB inbuilt,6000 mAh ,33W,1,1,1,0,1,0,0,6.51, 1080x2400,200 , 16 ,1.0,87.0,39990
+Vivo,Snapdragon,8.0, 2 ,Android v11,3 GB RAM, 32 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.51, 720x1600,13 , 8 ,1.0,65.0,9999
+OPPO,Snapdragon,8.0, 2.4 ,Android v11,6 GB RAM, 128 GB inbuilt,4000 mAh ,18W,1,1,1,0,1,0,0,6.5, 1080x2400,64 , 16 ,1.0,80.0,22990
+POCO,Dimensity,8.0, 3 ,,6 GB RAM, 128 GB inbuilt,5065 mAh ,67W,1,1,1,0,1,0,1,6.67, 1080x2400,64 , 16 ,,79.0,32999
+Honor,Snapdragon,8.0, 2.4 ,Android v11,6 GB RAM, 128 GB inbuilt,4300 mAh ,66W,1,1,1,0,1,1,0,6.57, 1080x2340,108 , 32 ,0.0,85.0,32990
+OPPO,Helio,8.0, 2.3 ,Android v10,6 GB RAM, 128 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.51, 1600x720,13 , 16 ,1.0,74.0,14999
+Realme,Helio,8.0, 2.05 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.6, 1080x2412,50 , 16 ,1.0,74.0,12499
+iQOO,Snapdragon,8.0, 2.84 ,,8 GB RAM, 128 GB inbuilt,4000 mAh ,66W,1,1,1,0,1,1,0,6.62, 1080x2400,48 , 16 ,,84.0,39990
+Realme,Unisoc,8.0, 1.6 ,Android v11,2 GB RAM, 32 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.52, 720x1600,8 , 5 ,1.0,61.0,6499
+Samsung,Helio,8.0, 2 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,15W,1,1,0,0,1,0,0,6.4, 720x1600,48 , 13 ,1.0,76.0,18499
+Realme,Snapdragon,8.0, 2.84 ,,8 GB RAM, 128 GB inbuilt,4500 mAh ,65W,1,1,1,0,1,1,0,6.43, 1080x2400,64 , 16 ,,85.0,30994
+Google,Snapdragon,8.0, 2.4 ,,6 GB RAM, 128 GB inbuilt,4620 mAh ,18W,0,1,1,0,1,1,0,6.34, 1080x2400,16 , 8 ,,78.0,32999
+Samsung,Exynos,8.0, 2 ,Android v11,4 GB RAM, 64 GB inbuilt,6000 mAh ,15W,1,1,0,0,1,0,0,6.5, 720x1600,48 , 8 ,1.0,73.0,10499
+Samsung,Exynos,8.0, 2.3 ,Android v10.0,6 GB RAM, 128 GB inbuilt,6000 mAh ,15W,1,1,0,0,1,0,0,6.4, 1080x2340,64 , 32 ,1.0,82.0,19999
+Samsung,Exynos,8.0, 2 ,Android v10,6 GB RAM, 128 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.5, 720x1600,48 , 13 ,1.0,75.0,17499
+Xiaomi,Helio,8.0, 2 ,Android v10,6 GB RAM, 128 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.53, 720x1600,13 , 5 ,1.0,69.0,10990
+Vivo,Snapdragon,8.0, 2 ,Android v10.0,8 GB RAM, 128 GB inbuilt,4100 mAh ,33W,1,1,0,0,1,0,0,6.44, 1080x2400,48 , 32 ,1.0,82.0,19000
+OPPO,Snapdragon,8.0, 1.8 ,Android v10,6 GB RAM, 128 GB inbuilt,5000 mAh ,18W,1,1,0,0,1,0,0,6.5, 1600x720,13 , 16 ,1.0,70.0,13990
+Realme,Helio,8.0, 2 ,Android v10,4 GB RAM, 64 GB inbuilt,6000 mAh ,18W,1,1,0,0,1,0,0,6.5, 720x1600,48 , 8 ,1.0,72.0,10499
+itel,Unisoc,8.0, 1.6 ,Android v9 (Pie),3 GB RAM, 32 GB inbuilt,4000 mAh ,,1,1,0,0,1,0,0,6.09, 1520x720,8 , 5 ,1.0,,5890
+Realme,Helio,8.0, 2.3 ,Android v10,2 GB RAM, 32 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.5, 720x1600,13 , 5 ,1.0,61.0,6490
+Xiaomi,Snapdragon,8.0, 2.84 ,Android v10.0,8 GB RAM, 256 GB inbuilt,4780 mAh ,30W,1,1,1,0,1,1,1,6.67, 1080x2340,108 , 20 ,0.0,88.0,54999
+Vivo,Snapdragon,8.0, 1.8 ,Android v10,4 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.5, 720x1544,13 , 13 ,1.0,65.0,9990
+OnePlus,Snapdragon,8.0, 2.4 ,Android v10,8 GB RAM, 128 GB inbuilt,4300 mAh ,30W,1,1,0,0,1,0,0,6.55, 1080x2400,64 , 16 ,0.0,79.0,24999
+Nokia,,,,,,,,,1,0,0,0,0,0,0,,,,,,,3399
+Sharp,Snapdragon,8.0, 2.84 ,Android v10,12 GB RAM, 256 GB inbuilt,3730 mAh ,,1,1,0,0,1,1,0,6.5, 1440x3168,48 , 16 ,1.0,88.0,59990
+Huawei,Kirin,8.0, 2.86 ,Android v10,12 GB RAM, 512 GB inbuilt,4500 mAh ,,1,1,1,0,1,1,1,6.53, 1176x2400,40 , 32 ,1.0,,214990
+Samsung,,8.0,,Android v10,2 GB RAM, 32 GB inbuilt,4000 mAh ,15W,1,1,0,0,1,0,0,6.4, 720x1560,13 , 8 ,1.0,63.0,9990
+Realme,Helio,8.0, 2 ,Android v9.0 (Pie),2 GB RAM, 16 GB inbuilt,4000 mAh ,,1,1,0,0,1,0,0,6.1, 1560x720,13 , 5 ,1.0,,6999
+Huawei,Kirin,8.0, 2.86 ,,8 GB RAM, 512 GB inbuilt,4500 mAh ,55W,1,1,1,0,1,1,1,8.0, 2200x2480,,,,,169000
+Samsung,Snapdragon,8.0, 2.2 ,Android v9.0 (Pie),6 GB RAM, 128 GB inbuilt,3400 mAh ,,1,1,0,0,1,1,0,6.4, 1080x2340,24 , 24 ,1.0,78.0,39990
+Samsung,Exynos,8.0, 2.2 ,Android v8.0 (Oreo),4 GB RAM, 64 GB inbuilt,3300 mAh ,,1,1,0,0,1,0,0,6.0, 2220x1080,24 , 24 ,1.0,70.0,21490
+Vivo,Snapdragon,4.0, 1.2 ,Android v6.0 (Marshmallow),3 GB RAM, 16 GB inbuilt,2730 mAh ,,1,1,0,0,1,0,0,5.2, 720x1280,13 , 5 ,1.0,,13490
+POCO,Helio,8.0, 2 ,Android v12,4 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.71, 720x1650,50 , 5 ,1.0,70.0,7999
+Blackview,Helio,8.0, 2.3 ,Android v12,4 GB RAM, 64 GB inbuilt,5180 mAh ,10W,1,1,1,0,1,1,0,6.1, 720x1560,13 , 8 ,1.0,67.0,8990
+Honor,Helio,8.0, 2.3 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,22.5W,1,1,0,0,1,0,0,6.75, 720x1600,50 , 8 ,1.0,75.0,13999
+XTouch,,,,,,,,,1,0,0,0,0,0,0,,,,,,,1999
+OPPO,Dimensity,8.0, 2.2 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,10W,1,1,1,0,1,0,0,6.56, 720x1612,13 , 8 ,1.0,72.0,13990
+Doogee,Helio,8.0, 2.05 ,Android v12,8 GB RAM, 128 GB inbuilt,6000 mAh ,33W,1,1,0,0,1,1,0,6.3, 1080x2340,108 , 32 ,1.0,84.0,14999
+Lava,Helio,4.0, 2 ,Android v12,3 GB RAM, 32 GB inbuilt,4000 mAh ,,1,1,0,0,1,0,0,6.5, 1600x720,8 , 5 ,1.0,,6999
+Motorola,Snapdragon,8.0, 3.2 ,Android v13,8 GB RAM, 128 GB inbuilt,4500 mAh ,68W,1,1,1,0,1,1,0,6.67, 1080x2400,50 , 32 ,0.0,87.0,42990
+iKall,,4.0,,Android v10.0,4 GB RAM, 64 GB inbuilt,5000 mAh ,,1,1,0,0,1,0,0,6.82, 720x1560,20 , 13 ,1.0,61.0,6799
+Oukitel,Helio,8.0, 2 ,Android v10,6 GB RAM, 128 GB inbuilt,8000 mAh ,,1,0,0,0,1,1,0,5.86, 720x1520,16 , 8 ,1.0,72.0,25899
+Xiaomi,Snapdragon,8.0, 3.2 ,,12 GB RAM, 256 GB inbuilt,5000 mAh ,67W,1,1,1,1,1,1,1,6.43, 1440x3200,50 , 32 ,,89.0,54999
+Motorola,Snapdragon,8.0, 3.2 ,,8 GB RAM, 128 GB inbuilt,5000 mAh ,68W,1,1,1,1,1,1,0,6.6, 1080x2400,50 , 32 ,,89.0,49990
+Xiaomi,Dimensity,8.0, 3.1 ,,8 GB RAM, 256 GB inbuilt,5000 mAh ,80W,1,1,1,0,1,1,1,6.7, 1080x2400,64 , 32 ,,86.0,32990
+Realme,Tiger,8.0, 1.82 ,Android v11,4 GB RAM, 64 GB inbuilt,5000 mAh ,10W,1,1,0,0,1,0,0,6.5, 720x1600,8 , 5 ,1.0,64.0,8720
+OPPO,Snapdragon,8.0, 3.2 ,,8 GB RAM, 256 GB inbuilt,4700 mAh ,120W,1,1,1,0,1,1,0,6.73, 1080x2400,50 , 32 ,,89.0,69990
+itel,Unisoc,4.0, 1.4 ,,2 GB RAM, 32 GB inbuilt,3020 mAh ,,1,0,0,0,1,0,0,5.0, 854x480,2 ,,,,4787
+Google,Google,8.0,,,12 GB RAM, 256 GB inbuilt,5000 mAh ,67W,1,1,1,0,1,1,0,6.73, 1440x3120,50 , 12 ,,80.0,70990
+Vivo,Snapdragon,8.0, 3.2 ,Android v12,12 GB RAM, 256 GB inbuilt,4800 mAh ,66W,1,1,1,0,1,1,0,8.03, 1916x2160,,,,,119990
+Motorola,Snapdragon,8.0, 3 ,,8 GB RAM, 128 GB inbuilt,5000 mAh ,68.2W,1,1,1,0,1,0,0,6.67, 1080x2460,64 , 16 ,,83.0,34990
+Honor,Snapdragon,8.0, 2.2 ,Android v11,6 GB RAM, 128 GB inbuilt,5000 mAh ,22.5W,1,1,1,0,1,0,0,6.5, 720x1600,48 , 8 ,1.0,75.0,14990
+POCO,Dimensity,8.0, 2.85 ,Android v12,8 GB RAM, 256 GB inbuilt,5080 mAh ,67W,1,1,1,0,1,1,1,6.6, 1080x2460,64 , 16 ,0.0,85.0,28990
+Motorola,Snapdragon,8.0, 2.2 ,Android v12,6 GB RAM, 128 GB inbuilt,5000 mAh ,,1,1,1,0,1,1,0,6.8, 1080x2400,108 , 32 ,1.0,80.0,19990
+Samsung,,8.0,,Android v12,8 GB RAM, 128 GB inbuilt,5000 mAh ,,1,1,1,0,1,0,0,6.5, 1080x2400,64 , 32 ,1.0,74.0,24990
